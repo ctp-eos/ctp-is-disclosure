@@ -1,3 +1,5 @@
+[![ctp-energy site-link](https://github.com/ctp-eos/ctp-is-disclosure/blob/baa2b837799431159d336cbf5c1e9365c6cf0e94/ctp-craft-in-formation.png?raw=true)](https://www.ctp-energy.com)
+
 ## 🌐 CTP is Disclosure – Official Repository
 
 **Welcome to the official GitHub repository for the global movement: "CTP is Disclosure."**
