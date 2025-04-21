@@ -18,3 +18,15 @@ This repository serves as the public-facing tracker and knowledge base for the g
 **CTP is Disclosure** is humanity's next evolutionary step: a conscious, science-driven awakening to our true multidimensional reality.
 
 > Follow, contribute, and witness the emergence of the next great leap in human understanding.
+
+![Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
+![LAMP Stack](https://img.shields.io/badge/Stack-LAMP-orange?logo=apache&logoColor=white)
+![CTP-EOS](https://img.shields.io/badge/OS-CTP--EOS-purple?logo=arch-linux&logoColor=white)
+![Extraterrestrial](https://img.shields.io/badge/Focus-Extraterrestrial-9cf)
+![UFOs / UAPs](https://img.shields.io/badge/Phenomena-UFOs/UAPs-lightgrey)
+![Paranormal](https://img.shields.io/badge/Category-Paranormal-black)
+![Consciousness](https://img.shields.io/badge/Field-Consciousness-yellowgreen)
+![Spiritual Encounters](https://img.shields.io/badge/Theme-Spiritual_Encounters-pink)
+![The Unexplained](https://img.shields.io/badge/Topic-The_Unexplained-red)
+![CTP Energy Science](https://img.shields.io/badge/Science-CTP_Energy_Science-brightgreen)
