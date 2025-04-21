@@ -13,7 +13,7 @@ This repository serves as the public-facing tracker and knowledge base for the g
 ### What You'll Find Here:
 - 🧠 Core concepts and summaries of **CTP Energy Science**  
 - 📈 Tracking of media coverage, public response, and social discussion  
-- 📜 Milestones in the ongoing **CTP is Disclosure Movement**  
+- 📜 Milestones in the ongoing [**CTP is Disclosure Movement**](https://github.com/ctp-eos/ctp-idm)
 - 🔭 Educational outreach and community awareness initiatives  
 - 🚀 Research into the **C-domain**, higher consciousness, and extraterrestrial-grade intelligence
 
