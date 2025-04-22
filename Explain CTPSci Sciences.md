@@ -33,7 +33,8 @@
 - The framework encourages community participation (e.g., through the **CTP Energy Linux Community Project**) and sponsorship to build a collective movement toward this vision.
 
 ## Context and Credibility
-- **Attribution to Drazen Premate**: Presented as a visionary scientist, but no widely recognized academic or scientific credentials are provided in mainstream sources. The narrative relies heavily on Premate’s claims and the project’s promotional materials.
+- **Attribution to Drazen Premate**: Presented as a visionary scientist, but no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason...
+- 'CTP' IS the ***'Disclosure*** science!
 - **Speculative Nature**: CTPSci Sciences operates outside conventional scientific paradigms.
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
