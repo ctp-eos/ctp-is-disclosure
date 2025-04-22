@@ -30,18 +30,18 @@
 ## Philosophical and Visionary Aspects
 - CTPSci Sciences blends scientific ambition with metaphysical and spiritual elements, drawing parallels to esoteric or New Age concepts while grounding them in a techno-futurist narrative.
 - It envisions a future where humanity achieves **interstellar nationhood**, with CTPSci as the guiding science for this evolution.
-- The framework encourages community participation (e.g., through the **CTP Energy Linux Community Project**) and sponsorship to build a collective movement toward this vision.
+- The framework encourages community participation *(e.g., through the **CTP Energy Linux Community Project**)* and sponsorship to build a collective movement toward this vision.
 
 ## Context and Credibility
 - **Attribution to Drazen Premate**: Presented as a visionary scientist, but no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason...
 - 'CTP' IS the ***'Disclosure*** science!
-- **Speculative Nature**: CTPSci Sciences operates outside conventional scientific paradigms.
+- **Speculative Nature**: CTPSci Sciences operates outside *conventional* scientific paradigms.
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
 ## Summary
 CTPSci Sciences is a visionary, speculative framework that combines advanced scientific concepts *(e.g., gravitic propulsion, post-quantum physics)* with **consciousness** and non-physical energy systems *(C-energy, C-domain)*. 
 
-It aims to revolutionize technology and human evolution, enabling interstellar travel and a new industrial era. Ambitious and imaginative, blending open-source software development with futuristic, post-metaphysical ideas. Its practical manifestations, like the CTP-EOS Linux distribution, serve as entry points to engage communities with its broader vision.
+It aims to revolutionize technology and human evolution, enabling interstellar travel and a new industrial era. Ambitious and imaginative, blending open-source software development with futuristic, post-metaphysical ideas. Its practical manifestations, like the CTP-EOS Linux distribution *(presently in development)*, serve as entry points to engage communities with its broader vision.
 
 ---
 
