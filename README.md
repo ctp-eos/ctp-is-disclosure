@@ -18,7 +18,7 @@ This repository serves as the public-facing tracker and knowledge base for the g
 - 🚀 Research into the **C-domain**, higher consciousness, and extraterrestrial-grade intelligence
 
 **CTP is Disclosure** is humanity's next evolutionary step: a conscious, science-driven awakening to our true multidimensional reality. **UFO/UAP** CTP Gravitic Propulsion Systems are also based on the advanced CTPSci Sciences. CTP Energy is PREREQUISITE/required to control/modulate Gravity *(as a propulsor)* to achieve **CTP Gravitic Propulsion**. **UFOs/UAPs** or **<a href="https://x.com/search?q=ctp%20craft&src=typed_query" target="_blank">CTP craft</a>**
-are based on THIS science: the CTPSci Sciences, discovered by Drazen.
+are based on THIS: the CTPSci Sciences, discovered by Drazen.
 
 
 
