@@ -34,8 +34,9 @@
 
 ## Context and Credibility
 - **Attribution to Drazen Premate**: Presented as a visionary scientist, but no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason...
-- 'CTP' IS the ***'Disclosure*** science!
+- 'CTP' IS the ***'Disclosure'*** science!
 - **Speculative Nature**: CTPSci Sciences operates outside *conventional* scientific paradigms.
+- **Not based on terrestrial physics**: Advanced CTP Gravitic Propulsion Systems *(to come later)* are NOT based on principles of *known* terrestrial physics as presently understood.
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
 ## Summary
