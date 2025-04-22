@@ -4,7 +4,7 @@
 
 **Welcome to the official GitHub repository for the global movement: "CTP is Disclosure."**
 
-This repository serves as the public-facing tracker and knowledge base for the gradual release and public awareness of **CTP Energy Science (CTPSci)** — the **postquantum, non-physical sciences** long-foretold by **Nikola Tesla**. ***"The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.***" - Nikola Tesla, predicting the arrival of CTP. 
+This repository serves as the public-facing tracker and knowledge base for the gradual release and public awareness of **CTP Energy Science (CTPSci)** — the **postquantum, non-physical sciences** long-foretold by **Nikola Tesla**. ***"The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.***" - Nikola Tesla, predicting the arrival of CTPSci. 
 
 **CTP is Disclosure** is not limited to the popularized topics of *free energy* or *UFO/UAP technologies*. It signifies the emergence of a far deeper understanding — of our **non-physical origins**, the **C-domain**, and the **fundamental C-body** that underlies every human being and the **non-physical C-energy** that exists behind the creation of everything. This science points to **two additional non-physical forces** unrecognized by current physics, revealing the framework of a higher universal reality and our place within it.
 
