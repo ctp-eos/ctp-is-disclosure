@@ -39,7 +39,7 @@
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
 ## Summary
-CTPSci Sciences is a visionary, speculative framework that combines advanced scientific concepts *(e.g., gravitic propulsion, post-quantum physics)* with **consciousness** and non-physical energy systems *(C-energy, C-domain)*. 
+CTPSci Sciences is a visionary, speculative framework that combines advanced scientific concepts *(e.g., gravitic propulsion, post-quantum physics)* with **consciousness** and non-physical energy systems connect to our physical world via CTP Energy *(C-energy, C-domain)*. 
 
 It aims to revolutionize technology and human evolution, enabling interstellar travel and a new industrial era. Ambitious and imaginative, blending open-source software development with futuristic, post-metaphysical ideas. Its practical manifestations, like the CTP-EOS Linux distribution *(presently in development)*, serve as entry points to engage communities with its broader vision.
 
