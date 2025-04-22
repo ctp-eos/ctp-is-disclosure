@@ -39,8 +39,10 @@
 - It envisions a future where humanity achieves **interstellar nationhood**, with CTPSci as the guiding science for this evolution.
 - The framework encourages community participation *(e.g., through the **CTP Energy Linux Community Project**)* and sponsorship to build a collective movement toward this vision.
 
+![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctp-eos-w-rofi.png)
+
 ## Context and Credibility
-- **Attribution to Drazen Premate**: Presented as a visionary scientist, but no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason...
+- **Attribution to Drazen Premate**: Presented as a visionary scientist, indeed, unsung successor to Nikola Tesla our world ignored/(dis)missed during Drazen's time here *(Drazen passed alone and destitute similar to Nikola Tesla in 2019 - at the age of 63 without ever realizing his vision of CTP Energy)* as no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason...
 - 'CTP' IS the ***'Disclosure'*** science!
 - 'What' [Steven Greer](https://drstevengreer.com/) has referred to as ***Conscious Assisted Technologies*** ARE the **CTP Technologies!**
 - **Speculative Nature**: CTPSci Sciences operates outside *conventional* scientific paradigms.
