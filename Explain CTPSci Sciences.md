@@ -23,7 +23,7 @@
 - It aims to usher in the **Nth Industrial Revolution**, a new era of technological and societal advancement driven by CTP technologies and consciousness-based sciences.
 
 ## Key Applications
-- **Interstellar Travel**: The development of **CTP Spaceliners** for exploring the multiverse, leveraging gravitic propulsion systems. (Note: [cigar-shaped UFOs](https://x.com/search?q=cigar-shaped%20ufo&src=typed_query) are ***CTP Spaceliners***
+- **Interstellar Travel**: The development of **CTP Spaceliners** for exploring the multiverse, leveraging gravitic propulsion systems. *(Note: [cigar-shaped UFOs](https://x.com/search?q=cigar-shaped%20ufo&src=typed_query)* ARE ***CTP Spaceliners***
 - **Energy Systems**: Novel energy solutions based on C-energy, potentially replacing conventional energy sources.
 - **Conscious Interfaces**: Systems that require users to master CTPSci’s consciousness principles to operate advanced technologies, such as the non-physical operating system in Part III of CTP-EOS.
 
