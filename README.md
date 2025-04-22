@@ -58,5 +58,6 @@ Under the following terms:
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc/4.0/
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
