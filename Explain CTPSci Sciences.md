@@ -40,7 +40,7 @@
 - **Not based on terrestrial physics**: Advanced CTP Gravitic Propulsion Systems *(to come later)* are NOT based on principles of *known* terrestrial physics as presently understood: [The Five Observables](https://fiveobservables.com/)
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
-- 
+---
 
 ## Summary
 CTPSci Sciences is a visionary, speculative framework that combines advanced scientific concepts *(e.g., gravitic propulsion, post-quantum physics)* with **consciousness** and non-physical energy systems connect to our physical world via CTP Energy *(C-energy, C-domain)*. 
