@@ -10,6 +10,8 @@
 - **C-domain** as a non-physical, multiverse-like framework that encompasses both physical and non-physical realities. It represents a higher-order reality where **consciousness** and **energy** operate beyond *conventional* physics.
 - **C-energy** ***(or [CTP Energy](https://ctp-energy.com))*** is the total force or energy system that spans physical and non-physical domains. It is the foundational concept for CTPSci Sciences, driving technologies like propulsion systems and energy cycles.
 
+![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/consciousness-energy.png)
+
 ### Consciousness as a Central Pillar
 - CTPSci Sciences emphasizes consciousness as a fundamental aspect of reality, not merely a byproduct of physical processes. It explores the "C-spiritual" or conscious mind as a tool for interfacing with advanced CTP Technologies.
 - The sciences aim to teach individuals how to engage with the C-domain through conscious awareness, enabling interaction with non-physical systems and technologies.
