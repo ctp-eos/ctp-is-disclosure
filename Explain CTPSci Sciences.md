@@ -42,8 +42,8 @@
 ![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctp-eos-gaming.png)
 
 ## Context and Credibility
-- **Attribution to Drazen Premate**: Presented as a visionary scientist, indeed, unsung successor to Nikola Tesla our world ignored/(dis)missed during Drazen's time here
-- *Note: (Drazen passed alone and destitute similar to Nikola Tesla in 2019 - at the age of 63 without ever realizing his vision of CTP Energy)* as no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason... 'CTP' IS the ***'Disclosure'*** science!
+- **Attribution to Drazen Premate**: Presented as a visionary scientist, indeed, unsung successor to Nikola Tesla our world ignored/(dis)missed during Drazen's time here. Yes, our world ignored the next Nikola Tesla-level of genius!
+- *Note: (Drazen passed alone and destitute similar to Nikola Tesla in 2019 - at the age of 63 without ever realizing his vision of CTP Energy)* as there is no widely recognized academic or scientific credentials are provided in mainstream sources. For a reason... 'CTP' IS the ***'Disclosure'*** science! CTP is **A COMPLETELY NEW POST-QUANTUM SCIENCE**!
 - 'What' [Steven Greer](https://drstevengreer.com/) has referred to as ***Conscious Assisted Technologies*** ARE the **CTP Technologies!**
 - **Speculative Nature**: CTPSci Sciences operates outside *conventional* scientific paradigms.
 - **Not based on terrestrial physics**: Advanced CTP Gravitic Propulsion Systems *(to come later)* are NOT based on principles of *known* terrestrial physics as presently understood: [The Five Observables](https://fiveobservables.com/)
