@@ -1,6 +1,6 @@
 # CTPSci Sciences
 
-**CTPSci Sciences**, as described in the context of the **CTP-EOS project** *(from the GitHub repository and related sources)*, is a visionary and futuristic framework attributed to Drazen Premate, who is presented as Nikola Tesla’s intellectual successor. It claims to be a revolutionary scientific paradigm, purportedly 50 years ahead of contemporary science, focusing on the interplay of consciousness, non-physical energies, and advanced technologies. Below is an explanation based on the available information:
+**CTPSci Sciences**, as described in the context of the **CTP-EOS project** *(from the GitHub repository and related sources)*, is a visionary and futuristic framework attributed to Drazen Premate, who is presented as Nikola Tesla’s intellectual successor. It claims to be a revolutionary scientific paradigm, purportedly 50 years ahead of contemporary science, focusing on the interplay of consciousness, non-physical energies, and advanced technologies. Below is an explanation:
 
 ## Core Concepts of CTPSci Sciences
 
