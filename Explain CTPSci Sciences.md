@@ -27,6 +27,9 @@
 - It aims to usher in the **Nth Industrial Revolution**, a new era of technological and societal advancement driven by CTP technologies and consciousness-based sciences.
 
 ## Key Applications
+
+![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctpspaceliner-type.png)
+
 - **Interstellar Travel**: The development of [**CTP Spaceliners**](https://www.linkedin.com/feed/update/urn:li:activity:7162263158424870912) for exploring the multiverse, leveraging gravitic propulsion systems. *(Note: [cigar-shaped UFOs](https://x.com/search?q=cigar-shaped%20ufo&src=typed_query) ARE* ***CTP Spaceliners!*** *(that utilize CTP Gravitic Propulsion)* 
 - **Energy Systems**: Novel energy solutions based on C-energy, potentially replacing conventional energy sources.
 - **Conscious Interfaces**: Systems that require users to master CTPSci’s consciousness principles to operate advanced technologies, such as the non-physical operating system in Part III of CTP-EOS.
@@ -44,12 +47,16 @@
 - **Not based on terrestrial physics**: Advanced CTP Gravitic Propulsion Systems *(to come later)* are NOT based on principles of *known* terrestrial physics as presently understood: [The Five Observables](https://fiveobservables.com/)
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
+![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctp-eos-budgie-desktop.png)
+
 ---
 
 ## Summary
 CTPSci Sciences is a visionary *'next century'* framework that combines advanced scientific concepts *(e.g., gravitic propulsion, post-quantum physics)* with **consciousness** and non-physical energy systems connect to our physical world via CTP Energy *(C-energy, C-domain)*. 
 
 CTP aims to revolutionize technology and human evolution, enabling interstellar travel and a new industrial era. Ambitious and imaginative, blending open-source software development with futuristic, post-metaphysical ideas. Its practical manifestations, like the CTP-EOS Linux distribution *(presently in development)*, serve as entry points to engage communities with its broader vision: for humankind/CTP to achieve private/commercial/industrial level **interstellar travel** in our lifetime.
+
+![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctpspaceliner-port.png)
 
 ---
 
