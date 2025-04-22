@@ -20,7 +20,7 @@ This repository serves as the public-facing tracker and knowledge base for the g
 **CTP is Disclosure** is humanity's next evolutionary step: a conscious, science-driven awakening to our true multidimensional reality. **UFO/UAP** CTP Gravitic Propulsion Systems are also based on the advanced CTPSci Sciences. CTP Energy is PREREQUISITE/required to control/modulate Gravity *(as a propulsor)* to achieve **CTP Gravitic Propulsion**. **UFOs/UAPs** or **<a href="https://x.com/search?q=ctp%20craft&src=typed_query" target="_blank">CTP craft</a>**
 are based on THIS: the CTPSci Sciences, discovered by Drazen.
 
-
+---
 
 > Follow, contribute, and witness the emergence of the next great leap in human understanding.
 
@@ -35,6 +35,8 @@ are based on THIS: the CTPSci Sciences, discovered by Drazen.
 ![Spiritual Encounters](https://img.shields.io/badge/Theme-Spiritual_Encounters-pink)
 ![The Unexplained](https://img.shields.io/badge/Topic-The_Unexplained-red)
 ![CTP Energy Science](https://img.shields.io/badge/Science-CTP_Energy_Science-brightgreen)
+
+---
 
 ## License
 
@@ -55,8 +57,5 @@ Under the following terms:
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-To view a copy of this license, visit:
-https://creativecommons.org/licenses/by-nc/4.0/
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc/4.0/ [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
