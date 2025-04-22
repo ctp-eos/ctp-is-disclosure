@@ -37,7 +37,7 @@
 ## Philosophical and Visionary Aspects
 - CTPSci Sciences blends scientific ambition with metaphysical and spiritual elements, drawing parallels to esoteric or New Age concepts while grounding them in a techno-futurist narrative.
 - It envisions a future where humanity achieves **interstellar nationhood**, with CTPSci as the guiding science for this evolution.
-- The framework encourages community participation *(e.g., through the **CTP Energy Linux Community Project**)* and sponsorship to build a collective movement toward this vision with a *Disclosure* themed Linux distro everyone can use.
+- The framework encourages community participation *(e.g., through **CTP Energy Linux Community Project**)* and sponsorship to build a collective movement toward this vision with a ***CTP is Disclosure*** themed Linux distro **everyone** can use!
 
 ![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctp-eos-gaming.png)
 
