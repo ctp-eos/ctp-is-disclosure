@@ -1,6 +1,6 @@
 # CTPSci Sciences
 
-**CTPSci Sciences**, as described in the context of the **CTP-EOS project** (from the GitHub repository and related sources), is a speculative and futuristic framework attributed to Drazen Premate, who is presented as Nikola Tesla’s intellectual successor. It claims to be a revolutionary scientific paradigm, purportedly 50 years ahead of contemporary science, focusing on the interplay of consciousness, non-physical energies, and advanced technologies. Below is an explanation based on the available information:
+**CTPSci Sciences**, as described in the context of the **CTP-EOS project** *(from the GitHub repository and related sources)*, is a visionary and futuristic framework attributed to Drazen Premate, who is presented as Nikola Tesla’s intellectual successor. It claims to be a revolutionary scientific paradigm, purportedly 50 years ahead of contemporary science, focusing on the interplay of consciousness, non-physical energies, and advanced technologies. Below is an explanation based on the available information:
 
 ## Core Concepts of CTPSci Sciences
 
@@ -34,11 +34,13 @@
 
 ## Context and Credibility
 - **Attribution to Drazen Premate**: Presented as a visionary scientist, but no widely recognized academic or scientific credentials are provided in mainstream sources. The narrative relies heavily on Premate’s claims and the project’s promotional materials.
-- **Speculative Nature**: CTPSci Sciences operates outside conventional scientific paradigms, lacking peer-reviewed evidence or empirical validation. Concepts like C-energy and C-domain are not recognized in established physics or cosmology.
+- **Speculative Nature**: CTPSci Sciences operates outside conventional scientific paradigms.
 - **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
 
 ## Summary
-CTPSci Sciences is a visionary, speculative framework that combines advanced scientific concepts (e.g., gravitic propulsion, post-quantum physics) with consciousness and non-physical energy systems (C-energy, C-domain). It aims to revolutionize technology and human evolution, enabling interstellar travel and a new industrial era. While ambitious and imaginative, it remains unverified by mainstream science, blending open-source software development with futuristic, metaphysical ideas. Its practical manifestations, like the CTP-EOS Linux distribution, serve as entry points to engage communities with its broader vision.
+CTPSci Sciences is a visionary, speculative framework that combines advanced scientific concepts *(e.g., gravitic propulsion, post-quantum physics)* with **consciousness** and non-physical energy systems *(C-energy, C-domain)*. 
+
+It aims to revolutionize technology and human evolution, enabling interstellar travel and a new industrial era. Ambitious and imaginative, blending open-source software development with futuristic, post-metaphysical ideas. Its practical manifestations, like the CTP-EOS Linux distribution, serve as entry points to engage communities with its broader vision.
 
 ---
 *Last Updated: April 22, 2025*
