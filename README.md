@@ -17,7 +17,9 @@ This repository serves as the public-facing tracker and knowledge base for the g
 - 🔭 Educational outreach and community awareness initiatives  
 - 🚀 Research into the **C-domain**, higher consciousness, and extraterrestrial-grade intelligence
 
-**CTP is Disclosure** is humanity's next evolutionary step: a conscious, science-driven awakening to our true multidimensional reality.
+**CTP is Disclosure** is humanity's next evolutionary step: a conscious, science-driven awakening to our true multidimensional reality. **UFO/UAP** CTP Gravitic Propulsion Systems are also based on the advanced CTPSci Sciences. CTP Energy is PREREQUISITE/required to control/modulate Gravity *(as a propulsor)* to achieve **CTP Gravitic Propulsion**.
+
+
 
 > Follow, contribute, and witness the emergence of the next great leap in human understanding.
 
