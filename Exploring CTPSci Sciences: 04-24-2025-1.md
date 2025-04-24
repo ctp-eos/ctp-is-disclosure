@@ -118,24 +118,29 @@ CTPSci Sciences delivers a decisive leap forward:
 
 CTPSci Sciences, developed by Drazen Premate and advanced by Resofactor, is a complete, operational science of consciousness, energy, and multidimensional reality. It provides humanity with the tools to evolve, engage with the universe at a higher level, and unlock its role as a conscious civilization in a populated cosmos.
 
-[^1]: Nikola Tesla, “The Problem of Increasing Human Energy,” *Century Magazine*, June 1900.
-[^2]: D. Premate, “C-Domain Physics,” unpublished research notes (1985–2005), personal archive.
-[^3]: Cheney, M., *Tesla: Man Out of Time*, Prentice Hall, 1981.
-[^4]: Nikola Tesla, U.S. Patent No. 645,576 (1900) – System of Transmission of Electrical Energy.
-[^5]: Premate, D. “The CTP Field Matrix,” internal CTPSci whitepaper, 2006.
-[^6]: Goswami, A., *The Self-Aware Universe*, TarcherPerigee, 1995.
-[^7]: Wheeler, J.A., “Law Without Law,” in *Quantum Theory and Measurement*, Princeton University Press, 1983.
-[^8]: Resofactor, “Introduction to the CTP Energy Cycle™,” CTPSci Foundation Lecture, 2024.
-[^9]: Laszlo, E., *Science and the Akashic Field*, Inner Traditions, 2004.
-[^10]: Puthoff, H.E., “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering,” *Journal of the British Interplanetary Society*, 1999.
-[^11]: Vallee, J., *Dimensions: A Casebook of Alien Contact*, Anomalist Books, 2008.
-[^12]: Salla, M., *Exopolitics: Political Implications of the Extraterrestrial Presence*, Exopolitics Institute, 2004.
-[^13]: Hernandez, R., et al., *Beyond UFOs: The Science of Consciousness & Contact with Non-Human Intelligence*, FREE Foundation, 2018.
-[^14]: Radin, D., *Real Magic*, Harmony Books, 2018.
-[^15]: Haramein, N., “Quantum Gravity and the Holographic Mass,” *Physical Review & Research International*, 2013.
-[^16]: Sheldrake, R., *The Science Delusion*, Coronet, 2012.
-[^17]: Mitchell, E., “Nature’s Mind: The Quantum Hologram,” *Noetic Sciences Review*, 1996.
-[^18]: Kaku, M., *The Physics of the Impossible*, Doubleday, 2008.
+---
+
+## References
+
+[^1]: Tesla, Nikola. “The Problem of Increasing Human Energy.” *Century Magazine*, June 1900. [Amazon](https://www.amazon.com/dp/B08CNM4RNC?tag=ctpenergy03-20)
+[^2]: Premate, D. *C-Domain Physics*, unpublished research notes (1985–2005), personal archive.
+[^3]: Cheney, Margaret. [*Tesla: Man Out of Time*](https://www.amazon.com/dp/0743215362?tag=ctpenergy03-20). Prentice Hall, 1981.
+[^4]: Tesla, Nikola. U.S. Patent No. 645,576 (1900) – System of Transmission of Electrical Energy.
+[^5]: Premate, D. *The CTP Field Matrix*, internal CTPSci whitepaper, 2006.
+[^6]: Goswami, Amit. [*The Self-Aware Universe*](https://www.amazon.com/dp/0874777984?tag=ctpenergy03-20). TarcherPerigee, 1995.
+[^7]: Wheeler, J.A. “Law Without Law,” in *Quantum Theory and Measurement*, Princeton University Press, 1983.
+[^8]: Resofactor. “Introduction to the CTP Energy Cycle™,” CTPSci Foundation Lecture, 2024.
+[^9]: Laszlo, Ervin. [*Science and the Akashic Field*](https://www.amazon.com/dp/1594771812?tag=ctpenergy03-20). Inner Traditions, 2004.
+[^10]: Puthoff, H.E. “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering.” *Journal of the British Interplanetary Society*, 1999.
+[^11]: Vallée, Jacques. [*Dimensions: A Casebook of Alien Contact*](https://www.amazon.com/dp/1933665256?tag=ctpenergy03-20). Anomalist Books, 2008.
+[^12]: Salla, Michael. [*Exopolitics: Political Implications of the Extraterrestrial Presence*](https://www.amazon.com/dp/0976644107?tag=ctpenergy03-20). Exopolitics Institute, 2004.
+[^13]: Hernandez, R., et al. [*Beyond UFOs: The Science of Consciousness & Contact with Non-Human Intelligence*](https://www.amazon.com/dp/1721088212?tag=ctpenergy03-20). FREE Foundation, 2018.
+[^14]: Radin, Dean. [*Real Magic*](https://www.amazon.com/dp/1524758825?tag=ctpenergy03-20). Harmony Books, 2018.
+[^15]: Haramein, Nassim. “Quantum Gravity and the Holographic Mass.” *Physical Review & Research International*, 2013.
+[^16]: Sheldrake, Rupert. [*The Science Delusion*](https://www.amazon.com/dp/144472792X?tag=ctpenergy03-20). Coronet, 2012.
+[^17]: Mitchell, Edgar. “Nature’s Mind: The Quantum Hologram.” *Noetic Sciences Review*, 1996.
+[^18]: Kaku, Michio. [*The Physics of the Impossible*](https://www.amazon.com/dp/0307278824?tag=ctpenergy03-20). Doubleday, 2008.
+
 
 ---
 
