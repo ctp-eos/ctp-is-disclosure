@@ -22,6 +22,11 @@ are based on THIS: the CTPSci Sciences, discovered by Drazen.
 
 ---
 
+## 🔗 Related Repositories
+
+- [ctp-is-disclosure-movement](https://github.com/ctp-eos/ctp-idm)
+
+ 
 > Follow, contribute, and witness the emergence of the next great leap in human understanding.
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&logoColor=white)
