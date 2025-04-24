@@ -33,7 +33,8 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by Reso Factor
 
 ### 4. Expansion Beyond the Standard Model
 
-- **Beyond Four Forces**: CTPSci introduces at least two additional fundamental forces enabled by non-physical C-Energy and T-energy. P-energy delineates and defines the known 4 Fundamental Forces. 
+- **Beyond Four Forces**: CTPSci introduces at least two additional fundamental forces enabled by non-physical C-Energy and T-energy. P-energy delineates and defines the known 4 Fundamental Forces.
+- 'CTP' expresses CTP Grand Unification as one simple elegant 'relational model' where complex mathematical formulas and complex physics and quantum physics equations are not required.
 - **Redefining Gravity**: Gravity is influenced by consciousness-based interactions, not merely by mass-curved spacetime.
 
 ### 5. Future Applications (CTPSCIA)
