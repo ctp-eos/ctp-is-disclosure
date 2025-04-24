@@ -21,7 +21,7 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by *[Resofacto
 
 ### 2. Non-Physical Phenomena
 
-- **Primary Focus**: CTPSci confirms that **consciousness is a fundamental force**, directly embedded in the structure of the universe[^3].
+- **Primary Focus**: CTPSci confirms that **consciousness is a fundamental force**, directly embedded in the structure of the universe that exists *behind* the creation of all physical forces[^3].
 - **Illustrative Case**: Examples such as coordinated bird murmurations are explained via C-Energy fields, illustrating intelligent collective behavior beyond biological instinct.
 
 ### 3. Gravitic Propulsion and CTPcraft
