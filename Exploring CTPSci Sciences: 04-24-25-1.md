@@ -118,8 +118,6 @@ CTPSci Sciences delivers a decisive leap forward:
 
 CTPSci Sciences, developed by Drazen Premate and advanced by Resofactor, is a complete, operational science of consciousness, energy, and multidimensional reality. It provides humanity with the tools to evolve, engage with the universe at a higher level, and unlock its role as a conscious civilization in a populated cosmos.
 
----
-
 [^1]: Nikola Tesla, “The Problem of Increasing Human Energy,” *Century Magazine*, June 1900.
 [^2]: D. Premate, “C-Domain Physics,” unpublished research notes (1985–2005), personal archive.
 [^3]: Cheney, M., *Tesla: Man Out of Time*, Prentice Hall, 1981.
