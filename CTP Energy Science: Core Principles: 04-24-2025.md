@@ -24,9 +24,9 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by *[Resofacto
 - **Primary Focus**: CTPSci confirms that **consciousness is a fundamental force**, directly embedded in the structure of the universe that exists *behind* the creation of all physical forces[^3].
 - **Illustrative Case**: Examples such as coordinated bird murmurations are explained via C-Energy fields, illustrating intelligent collective behavior beyond biological instinct.
 
-### 3. Gravitic Propulsion and CTPcraft
+### 3. CTP Gravitic Propulsion and CTPcraft
 
-- **Propulsion Redefined**: CTPcraft use C-Energy to modulate gravitational fields, enabling propulsion without combustion or traditional thrust.
+- **Propulsion Redefined**: CTPcraft use CTP Energy to modulate gravitational fields, enabling propulsion without combustion or traditional thrust.
 - **Flight Characteristics**: This explains observed UFO/UAP behaviors such as rapid acceleration, sudden stops, and angular deflections without inertia.
 
 ### 4. Expansion Beyond the Standard Model
