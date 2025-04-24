@@ -2,11 +2,11 @@
 
 [![ctp-energy site-link](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctp-energy-units.png?raw=true)](https://www.ctp-energy.com)
 
-CTP Energy Science (CTPSci) is a theoretical framework introduced by Reso Factor, based on original discoveries by an individual named Drazen in 1985. It positions itself as a science of non-physical phenomena, in direct alignment with Nikola Tesla’s vision of transcending conventional physics.
+CTP Energy Science (CTPSci) is a theoretical framework introduced by [Resofactor](https://linktr.ee/resofactor), based on original discoveries by his late mentor, an individual named Drazen in 1985. It positions itself as a science of non-physical phenomena, in direct alignment with Nikola Tesla’s vision of transcending conventional physics.
 
 ## 🧬 Origins and Background
 
-- **Initial Discovery**: CTPSci was established in March 1985 by Drazen. Reso Factor has continued research and development since 2011 as part of its second emergence.
+- **Initial Discovery**: CTPSci was established in March 1985 by Drazen. Resofactor has continued research and development since 2011 as part of its second emergence.
 - **Tesla’s Vision Realized**: Aligned with Nikola Tesla’s prophetic insight —  
   > *“The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.”*[^1]
 
