@@ -6,7 +6,7 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by *[Resofacto
 
 ## 🧬 Origins and Background
 
-- **Initial Discovery**: CTPSci was established in March 1985 by Drazen. Resofactor has continued research and development since 2011 as part of its second emergence.
+- **Initial Discovery**: CTPSci was established in March 1985 by Drazen. Resofactor *(also known as/by 'Reso')* has continued research and development since 2011 as part of its second emergence.
 - **Tesla’s Vision Realized**: Aligned with Nikola Tesla’s prophetic insight —  
   > *“The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.”*[^1]
 
