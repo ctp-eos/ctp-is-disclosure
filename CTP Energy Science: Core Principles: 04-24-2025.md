@@ -49,7 +49,7 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by *[Resofacto
 
 ---
 
-## 📚 References
+## **References:**
 
 [^1]: Tesla, Nikola. *The Problem of Increasing Human Energy*. [Amazon](https://www.amazon.com/dp/B0851M2F1K?tag=ctpenergy03-20)
 
