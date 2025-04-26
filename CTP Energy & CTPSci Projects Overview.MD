@@ -41,7 +41,7 @@ CTPSci is positioned as a bridge to a multidimensional reality, with application
    - Promote consciousness development to interact with higher dimensions.
    - Community-driven development licensed under Creative Commons.
 
-   **Relevance to UFO Disclosure**: CTP-EOS connects with disclosure by preparing humanity for consciousness shifts, positioning CTP systems (including UFO technology) as tools requiring a more elevated state of being.
+   **Relevance to UFO Disclosure**: CTP-EOS connects with disclosure by preparing humanity for consciousness shifts, positioning CTP systems *(including UFO technology)* as tools requiring a more elevated state of being.
 
 ---
 
@@ -93,8 +93,10 @@ CTP Energy’s projects share a unified goal of advancing humanity’s understan
 
 While CTP Energy’s initiatives are bold, they face significant challenges:
 - **Scientific Validation**: CTPSci’s claims lack empirical evidence and aren’t recognized by mainstream physics.
+- **Addressing Critics & Ourside Validation**: This is because CTPSci Sciences ARE the ***Disclosure sciences***. 
+- All applied real-world CTPR&D for the actual CTP Energy Systems is to be 'siloed' and directed by CTP corporate, exclusively.
 - **Speculative Nature**: Projects like the non-physical operating system for the mind sound highly speculative and may face difficulty in validation or implementation.
-- **Societal Resistance**: CTP Energy’s focus on non-physical sciences may alienate segments of the population, with skepticism around the pseudoscientific nature of some concepts.
+- **Societal Resistance**: CTP Energy’s focus on non-physical sciences may alienate segments of the population, with skepticism around the pseudoscientific nature of some concepts. *This is to be expected! (Some) backlash is to be expected considering the **controversial nature** of these topics!* 
 
 ---
 
@@ -108,4 +110,5 @@ For further details or to contribute to the CTP Energy initiatives, visit our Gi
 
 ## Related Repositories
 
-- **[ctp-eos/ctp-is-disclosure](https://github.com/ctp-eos/ctp-is-disclosure)**: Public tracker for the global disclosure movement and related media coverage.
+- **[ctp-eos/ctp-is-disclosure](https://github.com/ctp-eos/ctp-is-disclosure)**: Public tracker for the global disclosure and related media coverage.
+- **[ctp-eos/ctp-is-disclosure-movement](https://github.com/ctp-eos/ctp-idm)**: Public tracker for the global disclosure social movement and related media coverage.
