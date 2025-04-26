@@ -16,7 +16,7 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by *[Resofacto
 
 ### 1. CTP Energy and the C-Domain
 
-- **C-Energy**: The foundational energy of the universe, operating within the "C-domain" — a domain beyond the known physical ("P-domain") realm.
+- **C-Energy**: The foundational energy of the universe, operating within the "C-domain" — a domain beyond the known physical domain *(or "P-domain")* realm of reality.
 - **Functional Role**: C-Energy governs interactions that transcend the traditional four forces of physics[^2]. It provides a medium for the emergence of consciousness-driven phenomena.
 
 ### 2. Non-Physical Phenomena
@@ -49,14 +49,16 @@ CTP Energy Science (CTPSci) is a theoretical framework introduced by *[Resofacto
 
 ---
 
-*Last Updated: April 24, 2025*
-
 ## 📚 References
 
-[^1]: Tesla, Nikola. *The Problem of Increasing Human Energy*. [Buy on Amazon](https://www.amazon.com/dp/B0851M2F1K?tag=ctpenergy03-20)
+[^1]: Tesla, Nikola. *The Problem of Increasing Human Energy*. [Amazon](https://www.amazon.com/dp/B0851M2F1K?tag=ctpenergy03-20)
 
-[^2]: Bohm, David. *Wholeness and the Implicate Order*. [Buy on Amazon](https://www.amazon.com/dp/0415289793?tag=ctpenergy03-20)
+[^2]: Bohm, David. *Wholeness and the Implicate Order*. [Amazon](https://www.amazon.com/dp/0415289793?tag=ctpenergy03-20)
 
-[^3]: Hameroff, Stuart & Penrose, Roger. *Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind*. [Buy on Amazon](https://www.amazon.com/dp/1107019318?tag=ctpenergy03-20)
+[^3]: Hameroff, Stuart & Penrose, Roger. *Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind*. [Amazon](https://www.amazon.com/dp/1107019318?tag=ctpenergy03-20)
 
-[^4]: Vallée, Jacques. *Forbidden Science Volume Four: The Spring Hill Chronicles*. [Buy on Amazon](https://www.amazon.com/dp/1949501104?tag=ctpenergy03-20)
+[^4]: Vallée, Jacques. *Forbidden Science Volume Four: The Spring Hill Chronicles*. [Amazon](https://www.amazon.com/dp/1949501104?tag=ctpenergy03-20)
+
+---
+
+*Last Updated: April 26, 2025*
