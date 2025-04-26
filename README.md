@@ -10,7 +10,7 @@ This repository serves as the public-facing tracker and knowledge base for the g
 
 CTP Energy signifies the emergence of a far deeper understanding — of our **non-physical origins**, the non-physical **C-domain**, and the **fundamental C-body** that underlies every human being to the **non-physical C-energy** that exists behind the creation of every physical object and/of **everything** and **everyone**. 
 
-CTPSci Sciences points to **two additional non-physical forces** unrecognized by current physics, revealing the framework of a much higher and much larger universal reality and our place within it.
+CTPSci Sciences points to **two additional non-physical Fundamental Forces** unrecognized by current physics, revealing the framework of a much higher and much larger universal reality and our place within it.
 
 > This is the second major release of CTPSci in 20 years — a planetary shift beyond traditional science, touching consciousness, evolution, and higher intelligence.
 
