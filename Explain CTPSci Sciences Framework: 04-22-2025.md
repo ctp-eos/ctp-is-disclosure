@@ -47,7 +47,7 @@
 - 'What' [Steven Greer](https://drstevengreer.com/) has referred to as ***Conscious Assisted Technologies*** ARE the **CTP Technologies!**
 - **Speculative Nature**: CTPSci Sciences operates outside *conventional* scientific paradigms.
 - **Not based on terrestrial physics**: Advanced CTP Gravitic Propulsion Systems *(to come later)* are NOT based on principles of *known* terrestrial physics as presently understood: [The Five Observables](https://fiveobservables.com/)
-- **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the Arch-based Linux distribution, to lend credibility and attract a tech-savvy audience.
+- **Open-Source Integration**: The CTP-EOS project ties CTPSci to tangible outputs, like the CTP-EOS Linux distribution, to lend credibility and attract a tech-savvy audience.
 
 ![Alt Text](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/ctp-eos-budgie-desktop.png)
 
