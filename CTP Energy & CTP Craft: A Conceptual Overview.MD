@@ -1,7 +1,7 @@
 # 🛸 CTP Energy and CTPcraft: A Conceptual Overview
 
 ## 🛸 Overview  
-**CTP Energy**, introduced by **Resofactor**, is a groundbreaking conceptual framework linked to **CTPcraft**—a proposed gravity modulation and advanced propulsion technology. Described as a novel, potentially **post-quantum** form of energy, CTP Energy is said to enable gravity control and highly maneuverable craft, opening new frontiers in propulsion, energy generation, and technological evolution.
+**CTP Energy**, introduced by ***[Resofactor](https://linktr.ee/resofactor)***, is a groundbreaking conceptual framework linked to **CTPcraft**—a proposed gravity modulation and advanced propulsion technology. Described as a novel, potentially **post-quantum** form of energy, CTP Energy is said to enable gravity control and highly maneuverable craft, opening new frontiers in propulsion, energy generation, and technological evolution.
 
 These concepts suggest bold possibilities for energy independence, deep space travel, and societal advancement.
 
