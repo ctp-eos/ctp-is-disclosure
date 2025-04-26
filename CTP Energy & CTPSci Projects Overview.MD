@@ -114,3 +114,5 @@ For further details or to contribute to the CTP Energy initiatives, visit our Gi
 - **[ctp-eos/ctp-is-disclosure-movement](https://github.com/ctp-eos/ctp-idm)**: Public tracker for the global disclosure social movement and related media coverage.
 
 ---
+
+*Last Updated: April 26, 2025*
