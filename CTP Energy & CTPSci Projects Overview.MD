@@ -96,7 +96,7 @@ While CTP Energy’s initiatives are bold, they face significant challenges:
 - **Addressing Critics & Ourside Validation**: This is because CTPSci Sciences ARE the ***Disclosure sciences***. 
 - All applied real-world CTPR&D for the actual CTP Energy Systems is to be 'siloed' and directed by CTP corporate, exclusively.
 - **Speculative Nature**: Projects like the non-physical operating system for the mind sound highly speculative and may face difficulty in validation or implementation.
-- **Societal Resistance**: CTP Energy’s focus on non-physical sciences may alienate segments of the population, with skepticism around the pseudoscientific nature of some concepts. *This is to be expected! (Some) backlash is to be expected considering the **controversial nature** of these topics!* 
+- **Societal Resistance**: CTP Energy’s focus on non-physical sciences may alienate segments of the population, with skepticism around the pseudoscientific nature of some concepts. *This is to be expected! Some backlash is to be expected even from within the UFO/UAP to spiritual/New Age communities considering the* **controversial nature** *of these topics!* 
 
 ---
 
