@@ -8,7 +8,7 @@ This repository serves as the public-facing tracker and knowledge base for the g
 
 **CTP is Disclosure** is not limited to the popularized topics of *free energy* or *UFO/UAP technologies*. 
 
-CTP Energy signifies the emergence of a far deeper understanding — of our **non-physical origins**, **C-domain**, and the **fundamental C-body** that underlies every human being to the **non-physical Conscious** or **C-energy** that exists behind the creation of every physical object and/of **everything** and **everyone**. 
+CTP Energy signifies the emergence of a far deeper understanding — of our **non-physical origins**, **C-domain**, and the **fundamental C-body** that underlies every human being to the **non-physical Conscious** or **C-energy** that via CTP Energy creates **everything** and **everyone**. 
 
 CTPSci Sciences points to **two additional non-physical Fundamental Forces** unrecognized by current physics, revealing the framework of a much higher and much larger universal reality and our place within it.
 
