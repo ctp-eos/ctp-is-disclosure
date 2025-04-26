@@ -47,9 +47,9 @@
 > **Footnote:** **Elon Musk**, through **SpaceX**, is already working on the **colonization of Mars**, and similar projects could greatly benefit from **CTP Gravitic Propulsion** technologies, propelling humanity into the next frontier of space exploration.
 
 ### **Interstellar Communication:**
-- One of the most groundbreaking aspects of **CTP Energy Science** is its potential to establish communication between **Earth** and **advanced extraterrestrial civilizations**. By utilizing **C-energy** and **the C-domain**, CTP offers the possibility of transmitting information across **vast interstellar distances**, using quantum energetic fields to bridge the communication gap. This breakthrough could lead to the discovery of advanced extraterrestrial intelligence and the exchange of **knowledge** and **technological advancements** between civilizations.
+- One of the most groundbreaking aspects of **CTP Energy Science** is its potential to establish communication between **Earth** and **advanced extraterrestrial civilizations**. By utilizing **C-energy** and **the C-domain**, CTP offers the possibility of transmitting information across **vast interstellar distances**, using C-energy and C-domain post-quantum physics C-energetic fields to bridge the communication gap - instantaneously or Faster-than-Light (CTPFTL). This breakthrough could lead to the discovery of advanced extraterrestrial intelligence and the exchange of **knowledge** and **technological advancements** between civilizations.
 
-> **Footnote:** **Dr. Michio Kaku**, in his discussions about the potential for **contacting extraterrestrial civilizations**, explores ideas about utilizing energy and physics for **interstellar communication** in his book [The Future of Humanity](https://www.amazon.com/Future-Humanity-Exploration-Interstellar-Civilization/dp/0385542775), but CTP's **energetic communication model** is a more feasible approach based on known quantum mechanics.
+> **Footnote:** **Dr. Michio Kaku**, in his discussions about the potential for **contacting extraterrestrial civilizations**, explores ideas about utilizing energy and physics for **interstellar communication** in his book [The Future of Humanity](https://www.amazon.com/Future-Humanity-Exploration-Interstellar-Civilization/dp/0385542775), but CTP's **energetic communication model** is a more feasible approach based on new **C-domain post-quantum mechanics**.
 
 ---
 
@@ -89,4 +89,4 @@
 ---
 
 **See also:**
-- **CTP Energy Science Foundation**
+- **CTP Energy Science Foundation** (request info) 
