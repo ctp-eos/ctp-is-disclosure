@@ -7,6 +7,7 @@
 This repository serves as the public-facing tracker and knowledge base for the gradual release and public awareness of **CTP Energy Science (CTPSci)** — the **postquantum, non-physical sciences** long-foretold by **Nikola Tesla**. ***"The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.***" - Nikola Tesla, predicting the arrival of CTPSci. 
 
 **CTP is Disclosure** is not limited to the popularized topics of *free energy* or *UFO/UAP technologies*. 
+
 CTP Energy signifies the emergence of a far deeper understanding — of our **non-physical origins**, the **C-domain**, and the **fundamental C-body** that underlies every human being and the **non-physical C-energy** that exists behind the creation of everything. This science points to **two additional non-physical forces** unrecognized by current physics, revealing the framework of a higher universal reality and our place within it.
 
 > This is the second major release of CTPSci in 20 years — a planetary shift beyond traditional science, touching consciousness, evolution, and higher intelligence.
