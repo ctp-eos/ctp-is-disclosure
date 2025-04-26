@@ -47,5 +47,3 @@ As a clean, scalable energy technology, it may offer future synergy or evolution
 ---
 
 *Last Updated: April 26, 2025*
-
-
