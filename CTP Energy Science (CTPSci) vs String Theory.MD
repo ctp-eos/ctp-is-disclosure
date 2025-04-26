@@ -93,3 +93,6 @@
 7. Kaku, Michio. *The Future of Humanity*. Doubleday, 2018. [Amazon](https://www.amazon.com/Future-Humanity-Exploration-Interstellar-Civilization/dp/0385542775)
 8. Smolin, Lee. *The Trouble with Physics*. Houghton Mifflin Harcourt, 2006. [Amazon](https://www.amazon.com/Trouble-Physics-String-Theory-Science/dp/0618563288)
 
+---
+
+*Last Updated: April 26, 2025*
