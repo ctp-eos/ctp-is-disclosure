@@ -23,7 +23,7 @@ We cannot truly move forward into the future — individually or collectively �
 - **CTP is Disclosure**: is our growth into a new science and new reality CTP offers with a **new consciousness**.
 - **CTPSci Sciences**: are the sciences **we have forgotten**.
 - **Advanced CTP Technologies come with a price**: *(UFOs or CTPcraft technologies)* can only come AFTER we have gone through these stages of **conscious development** and advanced **conscious evolution**. 
-- **A Higher Calling**: We must power through our primitive and violent nature in order to EARN the rights to travel the cosmos.
+- **A Higher Calling**: we must power through our primitive and violent nature in order to EARN the rights to travel the cosmos.
 
 > "*So many of us assume it is sufficient to believe in 'the other world' and not have to understand it on a scientific basis. Many more do not believe that there is a scientific basis for the spiritual or C-domain world at all.*"  
 > — Drazen Premate, unsung successor to Nikola Tesla, discoverer of CTP Energy.
