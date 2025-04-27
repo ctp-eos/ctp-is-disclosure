@@ -18,7 +18,8 @@ We cannot truly move forward into the future â€” individually or collectively â€
 ## The True Purpose of Disclosure
 
 **CTP is Disclosure**: is about far more than just revealing UFOs, UAPs, or the presence of extraterrestrial intelligences.  
-**The true purpose of CTP is Disclosure**: is to reintroduce humanity to the universal science that governs both matter and spirit, we have forgotten.
+**The true purpose of CTP is Disclosure**: is to reintroduce humanity to the universal science that governs both matter and spirit
+**CTPSci Sciences**: are the sciences we have forgotten.
 **Advanced CTP Technologies come with a price**: *(UFOs or CTPcraft technologies)* can only come AFTER we have gone through these stages of **conscious development** and advanced **conscious evolution**. We must power through our primitive and violent nature in order to EARN the rights to travel the cosmos.
 
 > "*So many of us assume it is sufficient to believe in 'the other world' and not have to understand it on a scientific basis. Many more do not believe that there is a scientific basis for the spiritual or C-domain world at all.*"  
