@@ -61,7 +61,7 @@ Through the **CTP is Disclosure Movement**, we advocate for:
 - There is a timeline, steps, and stages for ALL of this to occur. 
 - Only then can we get to the stages required for R&D-ing and accessing future advanced CTP Technologies.
 - Other advanced civlizations of C-domain have already embarked upon what we are set out to achieve.
-- CTPSci Sciences are the PREREQUISITES to achieve interstellar travel and because an advanced new civilization, ourselves.
+- CTPSci Sciences are the PREREQUISITES to achieve interstellar travel and evolve to become an advanced new civilization, ourselves.
 
 ---
 
