@@ -1,4 +1,4 @@
-# CTP is Disclosure Movement: Our **'conscious packages'** need serious updating!
+# Our **'conscious packages'** need serious updating!
 
 ---
 
