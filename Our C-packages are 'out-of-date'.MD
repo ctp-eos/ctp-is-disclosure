@@ -88,10 +88,10 @@ The **CTP is Disclosure Movement** helps humanity prepare for this shift by:
 ## Scientific Footnotes
 
 - **Bohm, D.** (1980). *Wholeness and the Implicate Order*. Routledge.
-- **Laszlo, E.** (2004). *Science and the Akashic Field: An Integral Theory of Everything*. [Buy on Amazon](https://www.amazon.com/dp/1594770425?tag=ctpenergy03-20)
-- **Tiller, W.** (1997). *Science and Human Transformation: Subtle Energies, Intentionality and Consciousness*. [Buy on Amazon](https://www.amazon.com/dp/0964263745?tag=ctpenergy03-20)
-- **Radin, D.** (2006). *Entangled Minds: Extrasensory Experiences in a Quantum Reality*. [Buy on Amazon](https://www.amazon.com/dp/1416524790?tag=ctpenergy03-20)
-- **McTaggart, L.** (2007). *The Intention Experiment: Using Your Thoughts to Change Your Life and the World*. [Buy on Amazon](https://www.amazon.com/dp/0743276965?tag=ctpenergy03-20)
+- **Laszlo, E.** (2004). *Science and the Akashic Field: An Integral Theory of Everything*. [Amazon](https://www.amazon.com/dp/1594770425?tag=ctpenergy03-20)
+- **Tiller, W.** (1997). *Science and Human Transformation: Subtle Energies, Intentionality and Consciousness*. [Amazon](https://www.amazon.com/dp/0964263745?tag=ctpenergy03-20)
+- **Radin, D.** (2006). *Entangled Minds: Extrasensory Experiences in a Quantum Reality*. [Amazon](https://www.amazon.com/dp/1416524790?tag=ctpenergy03-20)
+- **McTaggart, L.** (2007). *The Intention Experiment: Using Your Thoughts to Change Your Life and the World*. [Amazon](https://www.amazon.com/dp/0743276965?tag=ctpenergy03-20)
 
 ## Leading Contemporary Voices
 
