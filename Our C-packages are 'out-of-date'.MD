@@ -24,7 +24,7 @@ We cannot truly move forward into the future — individually or collectively �
 - **CTPSci Sciences**: are the sciences **we have forgotten**.
 - **Advanced CTP Technologies come with a price**: *(UFOs or CTPcraft technologies)* can only come AFTER we have gone through these stages of **conscious development** and advanced **conscious evolution**. 
 - **A Higher Calling**: we must power through our primitive and violent nature in order to EARN the rights to travel the cosmos.
-- **Collective Efforts**: we must take up CTP at both individual and collective consciousness societal level *(or we WILL destroy ourselves)*.
+- **Collective C-efforts**: we must take up CTP at both individual and collective consciousness societal level *(or we WILL destroy ourselves)*.
 
 > "*So many of us assume it is sufficient to believe in 'the other world' and not have to understand it on a scientific basis. Many more do not believe that there is a scientific basis for the spiritual or C-domain world at all.*"  
 > — Drazen Premate, unsung successor to Nikola Tesla, discoverer of CTP Energy.
