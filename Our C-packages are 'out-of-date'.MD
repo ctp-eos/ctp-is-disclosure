@@ -50,7 +50,7 @@ We would misinterpret new information, misapply new technologies, and remain spi
 
 - **We are not introducing a new religion.**  
 - **We are not promoting a new form of occultism or mysticism.**  
-- **We are revealing the natural scientific principles that connect all living beings to the C-Domain — the greater energy field from which all life, matter, consciousness, and spiritual phenomena arise.**
+- **We are revealing the natural scientific principles that connect all living beings to the C-Domain — the greater energy field from which all life, matter, consciousness, and spiritual phenomena arise: the *CTP Unity Field*.**
 
 Through the **CTP is Disclosure Movement**, we advocate for:
 
