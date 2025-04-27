@@ -48,9 +48,9 @@ We would misinterpret new information, misapply new technologies, and remain spi
 
 **CTP Energy Science** and the **C-Domain** represent a conscious effort to realign humanity’s spiritual understanding with **modern science**, **modern technology**, and the **emerging multidimensional realities**.
 
-We are not introducing a new religion.  
-We are not promoting a new form of occultism or mysticism.  
-We are revealing the natural scientific principles that connect all living beings to the C-Domain — the greater energy field from which all life, matter, consciousness, and spiritual phenomena arise.
+- **We are not introducing a new religion.**  
+- **We are not promoting a new form of occultism or mysticism.**  
+- **We are revealing the natural scientific principles that connect all living beings to the C-Domain — the greater energy field from which all life, matter, consciousness, and spiritual phenomena arise.**
 
 Through the **CTP is Disclosure Movement**, we advocate for:
 
