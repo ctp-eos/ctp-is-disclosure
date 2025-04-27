@@ -19,7 +19,7 @@ We cannot truly move forward into the future — individually or collectively �
 
 **Disclosure** is about far more than just revealing UFOs, UAPs, or the presence of extraterrestrial intelligences.  
 **The true purpose of CTP is Disclosure is to reintroduce humanity to the universal science that governs both matter and spirit.**
-**Advanced CTP Technologies *(like UFOs or CTPcraft)* **: Can only come AFTER we have gone through these stages of **conscious development**. 
+**Advanced CTP Technologies** *(like UFOs or CTPcraft)*: Can only come AFTER we have gone through these stages of **conscious development**. 
 
 > "*So many of us assume it is sufficient to believe in 'the other world' and not have to understand it on a scientific basis. Many more do not believe that there is a scientific basis for the spiritual or C-domain world at all.*"  
 > — Drazen Premate, unsung successor to Nikola Tesla, discoverer of CTP Energy.
