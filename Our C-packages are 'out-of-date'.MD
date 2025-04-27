@@ -4,16 +4,14 @@
 
 ## Humanity Is 2000 Years Out of Sync. We require a MASSIVE GLOBAL sudo pacman -Syu or sudo apt full-upgrade - to our minds!
 
-We live in a modern world where we daily believe in and interact with the internet, computers, televisions, cell phones, cars, and countless other innovations.  
-All these technologies are in sync with each other — and with the evolving fabric of modern life.
+We live in a modern world where we daily believe in and interact with the internet, computers, televisions, cell phones, cars, and countless other innovations. All these technologies are in sync with each other — and with the evolving fabric of modern life.
 
 Yet, when it comes to our understanding of spirituality, **consciousness**, and the **deeper nature of reality**, we still rely on explanations that are thousands of years old — interpretations developed in a world that did not know electricity, atoms, DNA, or the existence of galaxies beyond our own.
 
 > "*What you will soon learn about in greater detail via this profile and our web site is not a new religion, or a new occult or a new spiritualism. It really is the science of something we are all part of all the time and we have been there many times — the C-domain.*"  
 > — Drazen Premate, unsung successor to Nikola Tesla, discoverer of CTP Energy.
 
-Humanity is, by every meaningful metric, **over 2000 years out of sync spiritually**.  
-This outdated spiritual timeline is one of the greatest hidden dangers now emerging, especially in the face of Artificial Intelligence and the rapidly evolving technological landscape.
+Humanity is, by every meaningful metric, **over 2000 years out of sync spiritually**. This outdated spiritual timeline is one of the greatest hidden dangers now emerging, especially in the face of Artificial Intelligence and the rapidly evolving technological landscape.
 
 We cannot truly move forward into the future — individually or collectively — while remaining trapped in archaic models of spirituality that no longer reflect our lived reality.
 
