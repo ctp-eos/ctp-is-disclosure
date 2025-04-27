@@ -19,7 +19,7 @@ We cannot truly move forward into the future â€” individually or collectively â€
 
 - **CTP is Disclosure**: is about far more than just revealing UFOs, UAPs, or the presence of extraterrestrial intelligences.  
 - **CTP is Disclosure**: is to reintroduce humanity to the universal science that governs both **matter/P** and **spirit/C**.
-- **CTP is Disclosure**: is to connect our world - to others waiting to hear from us.
+- **CTP is Disclosure**: is to connect our world - to other worlds waiting to hear from us. ***"Did they/humankind make it?"***
 - **CTP is Disclosure**: is our growth into a new science and new reality CTP offers with a **new consciousness**.
 - **CTPSci Sciences**: are the sciences **we have forgotten**.
 - **Advanced CTP Technologies come with a price**: *(UFOs or CTPcraft technologies)* can only come AFTER we have gone through these stages of **conscious development** and advanced **conscious evolution**. 
