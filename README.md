@@ -70,3 +70,34 @@ No additional restrictions — You may not apply legal terms or technological me
 To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc/4.0/
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+```
+# Getting Involved with CTP-EOS
+
+At CTP-EOS, we believe in the power of collaboration and the potential of innovative minds to shape the future of science and technology. Whether you’re passionate about the integration of extraterrestrial research, open-source software development, or pushing the boundaries of new scientific fields, there's a place for you in the CTP community.
+
+## Disclosure
+
+Before you get involved, it's important to understand that **CTP-EOS** is at the forefront of pioneering new technologies and scientific approaches. We value transparency *(even though CTP hardware tech development is 'siloed')*, and as part of our mission, all contributors are expected to fully disclose any conflicts of interest, affiliations, or prior engagements that could affect the integrity of their work with CTP-EOS. By contributing, you acknowledge that you are working under the standards set forth by CTP-EOS, which are aligned with ethical research and development practices. 
+
+We encourage an open exchange of ideas, but all information shared within the CTP-EOS community is considered confidential until officially released to the public. If you have any doubts regarding disclosure or confidentiality, please reach out to us for clarification.
+
+## Enrollment
+
+Getting involved with CTP-EOS is simple and open to anyone willing to contribute their time, skills, or expertise. Whether you’re a developer, researcher, designer, or just someone passionate about the cause, we invite you to enroll in our community-driven projects. To join, please follow these steps:
+
+1. **Sign up**: Visit our [enrollment page](#) and create an account to start collaborating. (**NOTE**: develop Enrollment Page)
+2. **Choose Your Area**: Explore the various ongoing projects and identify where you can contribute the most, whether it’s in development, testing, research, or outreach.
+3. **Submit Your Interests**: Fill out a brief form to let us know what you’d like to work on and how you can contribute.
+4. **Get Started**: Once enrolled, you'll be granted access to relevant resources, communication channels, and project-specific guidelines.
+5. **Join Discussions**: Engage with the CTP-EOS community via our forums, Telagram groups, Matrix channels, or GitHub repositories to stay up-to-date and share your progress.
+
+We’re excited to have you join us and contribute to this groundbreaking venture!
+
+---
+
+By joining CTP-EOS, you're not just contributing to a project—you’re becoming part of a global network of visionaries working towards new scientific frontiers. Thank you for considering becoming a part of CTP-EOS, where your ideas and innovations can make a meaningful impact on the future of technology and science.
+
+```
+
