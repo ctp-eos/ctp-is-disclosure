@@ -64,8 +64,8 @@ Rather than separating spirit and science, CTPSci unites them:
 
 - **Drazen Premate**, physicist and founder of CTP Energy Corporation, developed CTPSci after thousands of claimed interactions with the C-domain.
 - **Resofactor**, his successor, is now reviving and expanding the system through:
-  - Open-source platforms like **CTP-EOS Linux** *anyone can get involved and contribut to CTP-EOS project*
-  - A global disclosure effort backed by tech and research
+  - Open-source platforms like **CTP-EOS Linux** *(anyone can get involved and contribut to CTP-EOS project)*
+  - A global disclosure effort backed by new tech, CTP deeptech vision, and research
 
 ---
 
