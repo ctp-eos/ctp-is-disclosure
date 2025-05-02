@@ -114,14 +114,14 @@ While the C-domain is non-mathematical, its effects in the P-domain are measurab
 The skepticism in the X threads (e.g., Post ID: 1918378368992722982) shows a community wary of speculative ideas but eager for truth. CTP should:
 
 - Present its ideas transparently, acknowledging its speculative nature.
-- Invite dialogue on how to test its claims indirectly (e.g., through P-domain effects), fostering collaboration rather than confrontation.
+- Invite dialogue on how to test its claims indirectly (e.g., through P-domain effects)
 
 ### 5.4 Challenge the Mathematical Dogma
 
 CTP can lead a broader discussion on alternative ways of understanding reality:
 
 - Draw on philosophy, consciousness studies, or indigenous knowledge systems to argue that mathematics isn’t the only path to truth.
-- Highlight unresolved problems in physics (e.g., the Big Bang singularity, dark energy) where mathematical frameworks fail, positioning CTP as a necessary alternative.
+- Highlight unresolved problems in physics (e.g., the Big Bang singularity, dark energy) where mathematical frameworks fail, **positioning CTP as a *necessary alternative*. **
 
 ---
 
@@ -139,11 +139,11 @@ By developing a conceptual language for the C-domain, focusing on observable eff
 
 We invite researchers, scientists, and thinkers to:
 
-1. Explore the CTP paradigm with an open mind, considering its potential to address unresolved problems in cosmology and beyond.
+1. Explore the CTP paradigm with an open mind, considering its potential to address unresolved problems in **cosmology** and **beyond**.
 2. Collaborate on developing indirect tests of CTP through P-domain effects, such as cosmological anomalies or UAP studies.
 3. Engage in a broader dialogue about the role of mathematics in science, advocating for alternative ways of knowing that can complement and expand our understanding of reality.
 
-The CTP Energy Science paradigm challenges us to rethink the foundations of physics. By overcoming the limits of **mainstream thinking**, we can unlock a deeper truth about the universe—one that transcends physical law.
+The CTP Energy Science paradigm challenges us to rethink the foundations of physics. By overcoming the limits of **mainstream thinking**, we can unlock a deeper truth about the universe— one that transcends limitations of physical law.
 
 ---
 
