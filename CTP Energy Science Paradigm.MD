@@ -130,7 +130,7 @@ The skepticism in the X threads (e.g., Post ID: 1918378368992722982) shows a com
 CTP can lead a broader discussion on alternative ways of understanding reality:
 
 - Draw on philosophy, consciousness studies, or indigenous knowledge systems to argue that mathematics isn’t the only path to truth.
-- Highlight unresolved problems in physics (e.g., the Big Bang singularity, dark energy) where mathematical frameworks fail, positioning CTP as a ***necessary alternative***. 
+- Highlight unresolved problems in physics *(e.g., the Big Bang singularity, Dark Universe - including Dark Energy and Dark Matter, missing universe)* where mathematical frameworks fail, positioning CTP as a ***necessary alternative***. 
 
 ---
 
