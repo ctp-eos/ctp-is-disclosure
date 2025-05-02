@@ -28,7 +28,7 @@ This breakdown undermines the principle that the universe is governed by consist
 
 ### 2.15 The 'Cosmic Singularity' as non-physical C-domain, itself
 
-That such a *cosmic singularity* is the non-physical C-domain, itself, the non-physical domain OUTSIDE of linear/physical space-time from which the physical universe emerges from via CTP Energy interactions and CTP Energy Processes. (CTPEP)
+That such a *cosmic singularity* is the non-physical C-domain, itself, the non-physical domain OUTSIDE of linear/physical space-time from which the physical universe emerges from via CTP Energy interactions and CTP Energy Processes (CTPEP).
 
 ### 2.2 Mainstream Solutions and Their Limitations
 
@@ -57,8 +57,9 @@ In CTP, the Big Bang is not a physical singularity but a rendering event in the 
 
 - C-energy Units, through their intrinsic properties (potentially involving consciousness or intentionality), initiate the creation of the P-domain.
 - T-energy Units translate this non-physical “code” into physical reality, generating spacetime, matter, and emergent laws like gravity (\( F = G \frac{m_1 m_2}{r^2} \)).
-- Since the C-domain is non-mathematical, there are no equations or infinities to break down—no \( \rho \to \infty \), no quantum fluctuations. The Big Bang (non-event) is a deterministic, non-physical process, avoiding Kaku’s “disaster.”
+- Since the C-domain is non-mathematical, there are no equations or infinities to break down—no \( \rho \to \infty \), no quantum fluctuations. The Big Bang *(non-event)* is a deterministic, non-physical process, avoiding Kaku’s “disaster.”
 - Physical reality, thus emerges from the C-domain via CTP Energy.
+- Expansion of C-energy in C-domain as *'coded'* by T-energy drives physical universe expansion and cosmic inflation.
 
 ### 3.3 Filling the “Missing Piece Beyond Physical Law”
 
