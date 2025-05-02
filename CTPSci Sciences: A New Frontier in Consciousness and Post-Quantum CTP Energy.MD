@@ -1,8 +1,8 @@
 # CTPSci Sciences: A New Frontier in Consciousness and Post-Quantum Energy
 
-**CTPSci Sciences**, also known as **CTP Energy Science**, is an emerging paradigm developed by Drazen Premate and now championed by Reso Factor. Heralded as a potential successor to Tesla’s visionary insights, CTPSci offers a **post-quantum scientific model** that redefines our understanding of consciousness, energy, and the fabric of reality itself.
+**CTPSci Sciences**, also known as **CTP Energy Science**, is an emerging paradigm developed by Drazen Premate and now championed by Resofactor. Heralded as a potential successor to Tesla’s visionary insights, CTPSci offers a **post-quantum scientific model** that redefines our understanding of consciousness, energy, and the fabric of reality itself.
 
-At its core lies the bold assertion that the universe is not merely a physical machine, but a **living, conscious, multidimensional system** — driven by non-physical energy dynamics. This concept could revolutionize science, technology, and spirituality.
+At its core lies the bold assertion that the universe is not merely a physical machine, but a **living, conscious, multidimensional system** — driven by non-physical energy dynamics. This concept could revolutionize science, technology, and spirituality into the next century.
 
 ---
 
@@ -46,7 +46,7 @@ CTPSci offers a novel explanation for unidentified aerial phenomena:
 
 > **UFOs are CTPcraft — vehicles modulating gravity by interacting with the C-domain.**
 
-These craft don’t fly — they **shift domains**. Using frequency and intent, they bypass propulsion and inertia entirely. CTPSci reframes "alien tech" as a **logical application** of advanced consciousness-energy engineering.
+These craft don’t fly — they **shift reality-domains**. Using frequency and intent, they bypass propulsion and inertia entirely. CTPSci reframes "alien tech" as a **logical application** of advanced consciousness-energy engineering.
 
 ---
 
@@ -54,13 +54,13 @@ These craft don’t fly — they **shift domains**. Using frequency and intent, 
 
 Rather than separating spirit and science, CTPSci unites them:
 
-- Humans are **C-energy beings**: conscious entities navigating the P-domain.
+- Humans are **C-energy beings**: conscious entities navigating the physical or P-domain.
 - Astral travel, precognition, and ESP are **domain functions**, not *pseudoscience*.
 - The **C-shift** is a proposed global awakening to this understanding.
 
 ---
 
-## 📜 Origins: Tesla → Premate → Reso
+## 📜 Origins: Tesla → Premate → Resofactor
 
 - **Drazen Premate**, physicist and founder of CTP Energy Corporation, developed CTPSci after thousands of claimed interactions with the C-domain.
 - **Resofactor**, his successor, is now reviving and expanding the system through:
@@ -99,10 +99,10 @@ Explore, contribute, and expand:
 - 🌐 [www.ctp-energy.com](https://www.ctp-energy.com)
 - 💻 [CTP-EOS Linux](https://github.com/ctp-eos)
 - 📚 Learn the science. Build the future.  
-  Transform your understanding of reality.
+  **Transform your understanding of reality**.
 
 ---
 
 > **CTPSci Sciences is not just a theory — it’s a revolution in reality.**
 
-```
+---
