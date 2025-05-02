@@ -103,11 +103,10 @@ To overcome these limits while preserving CTP’s non-mathematical, non-quantum 
 
 ### 5.1 Develop a Conceptual Language for the C-Domain
 
-- These are the terms of the CTPSci Sciences and the CTPSci lexicon.
 - Since the C-domain doesn’t use mathematics, we need a new language to describe its dynamics:
-
+- These are the terms of the CTPSci Sciences and the CTPSci lexicon.
 - Define the “code” of C-energy Units in terms of relationships, intentions, or patterns *(e.g., the CeFR as a spectrum of “states” rather than frequencies)*.
-- Use analogies—like the universe as a computational system *(but without numerical computation)* —to make CTP accessible to scientists.
+- Use analogies—like the universe as a computational system *(but without numerical computation)* — to make CTP accessible to scientists.
 - NOTE: CTPSci Sciences are private/exclusive to CTP corporate as the IP holders.
 
 ### 5.2 Focus on Observable Effects in the P-Domain
@@ -123,7 +122,7 @@ The skepticism in the X threads (e.g., Post ID: 1918378368992722982) shows a com
 
 - Present its ideas transparently, acknowledging its speculative nature.
 - Invite dialogue on how to test its claims indirectly (e.g., through P-domain effects)
-- Note: this will come later.
+- Note: this will come later via future CTP Energy seminars, symposiums, conferences, and CTP-related Summit(s).
 
 ### 5.4 Challenge the Mathematical Dogma
 
