@@ -114,7 +114,7 @@ To overcome these limits while preserving CTP’s non-mathematical, non-quantum 
 While the C-domain is non-mathematical, its effects in the P-domain are measurable:
 
 - **Cosmic Expansion**: If C-energy governs expansion (e.g., “expansion of C-energy in C-domain as coded by T-energy”), look for deviations from the Friedmann equations (e.g., Hubble tension: \( H_0 \approx 73 \, \text{km/s/Mpc} \) from local measurements vs. \( 67 \, \text{km/s/Mpc} \) from CMB).
-- **UAP Phenomena**: **UFOs/UAPs** are “CTPcraft” (Post ID: 1918394978805465136), their behavior *(e.g., rapid acceleration, lack of propulsion signatures)* provide direct evidence of CTP Energy dynamics *(i.e. casefiles of CTP craft pulling over 3000G forces plus non-Newtonian behavior.)*
+- **UAP Phenomena**: **UFOs/UAPs** are “CTPcraft” (Post ID: 1918394978805465136), their behavior *(e.g., rapid acceleration, lack of propulsion signatures)* provide direct evidence of CTP Energy dynamics *(i.e. casefiles of CTP craft pulling over 3000G forces plus non-Newtonian behavior, including inertial disparities, instantaneous stop, acceleration, right-hand turns, materialization or dematerializaiton i.e. observed C-energy Modulation processes.)*
 
 ### 5.3 Engage the Community Constructively
 
