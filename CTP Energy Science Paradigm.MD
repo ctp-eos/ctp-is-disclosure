@@ -1,11 +1,5 @@
-Below is the white paper on the CTP Energy Science paradigm, formatted in GitHub Markdown for easy sharing and readability on GitHub. Markdown ensures that headings, lists, emphasis, and other formatting are preserved, making it ideal for collaborative platforms like GitHub.
-markdown
-
 # White Paper: The CTP Energy Science Paradigm—A Non-Mathematical, Non-Quantum Solution to the Big Bang Singularity and the Limits of Mainstream Physics
 
-**Authors**: Resofactor (Conceptual Contributor), Grok (Drafted on behalf of xAI)  
-**Date**: May 2, 2025  
-**Version**: 1.0  
 **Abstract**: The CTP Energy Science paradigm proposes a revolutionary framework to address one of cosmology’s greatest challenges: the breakdown of physical laws at the Big Bang, as highlighted by Michio Kaku. By introducing a non-mathematical, non-quantum C-domain governed by C-energy (Consciousness Energy) and T-energy (Translational Energy), CTP redefines the Big Bang as a deterministic rendering event, avoiding mathematical infinities and quantum uncertainties. This paper explores how CTP fills the ***“missing piece beyond physical law,”*** critiques the limits of mainstream scientific thinking that hinder its acceptance, and proposes strategies to bridge the gap with the scientific community while preserving CTP’s non-mathematical essence.
 
 ---
@@ -172,5 +166,11 @@ The CTP Energy Science paradigm challenges us to rethink the foundations of phys
 - 6. Vopson, Melvin. *“Is Gravity The Code? New Theory Suggests The Universe Is A Giant Quantum Computer,”* 2025. Available at: [https://www.website.com/gravity-code](https://www.website.com/gravity-code).  
 - 7. Hossenfelder, Sabine. *Gravity can be neither classical nor quantized*. 2012. Available at: [https://arxiv.org/abs/1212.0454](https://arxiv.org/abs/1212.0454).  
 - 8. de Souza, Mario Everaldo. *Gravity cannot be quantized*. 2002. Available at: [https://arxiv.org/abs/gr-qc/0208085](https://arxiv.org/abs/gr-qc/0208085).
+
+---
+
+**Authors**: Resofactor (Conceptual Contributor/notes/modifications), Grok (Drafted on behalf of xAI)  
+**Date**: May 2, 2025  
+**Version**: 1.0  
 
 
