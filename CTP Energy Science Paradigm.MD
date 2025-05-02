@@ -160,7 +160,7 @@ The CTP Energy Science paradigm challenges us to rethink the foundations of phys
 
 - 1. Kaku, Michio. *Statement on the breakdown of physical laws at the Big Bang*, 2025.  
 - 2. Resofactor. *X Posts on CTP Energy Science*, May 2, 2025. Post IDs: 1918399929669533816, 1918394978805465136.  
-- 3. Web ID: 0. *“WHAT IS CTP ENERGY SCIENCE (CTPSCI),”* LinkedIn, 2024.  
+- 3. Web ID: 0. [WHAT IS CTP ENERGY SCIENCE (CTPSCI)](https://www.linkedin.com/pulse/what-ctp-energy-science-ctpsci-ctp-energy-fsk7e/?trackingId=wG6JkjFgTeae%2F8ydlPgSKA%3D%3D) LinkedIn, 2024/2025.  
 - 4. Web ID: 1. *“Big Bang,”* Wikipedia, 2025. Available at: [https://en.wikipedia.org/wiki/Big_Bang](https://en.wikipedia.org/wiki/Big_Bang).  
 - 5. Web ID: 3. *“List of topics characterized as pseudoscience,”* Wikipedia, 2025. Available at: [https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience](https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience).  
 - 6. Vopson, Melvin. *“Is Gravity The Code? New Theory Suggests The Universe Is A Giant Quantum Computer,”* 2025. Available at: [https://www.website.com/gravity-code](https://www.website.com/gravity-code).  
