@@ -149,7 +149,7 @@ By developing a conceptual language for the C-domain, focusing on observable eff
 We invite researchers, scientists, and thinkers to:
 
 1. Explore the CTP paradigm with an open mind, considering its potential to address unresolved problems in **cosmology** and **beyond**.
-2. The CTPSci Sciences must first be learned, processed and understood within one's own mind and one's own consciousness, first. Its rules and laws must be understood: first. This aspect of the CTPSci Sciences is not up for debdate.
+2. The CTPSci Sciences must first be learned, processed and understood within one's own mind and one's own consciousness, first. Its rules and laws must be understood, first. This aspect of the CTPSci Sciences is not up for debate.
 3. Collaborate on developing indirect tests of CTP through P-domain effects, such as cosmological anomalies or UAP studies.
 4. Engage in a broader dialogue about the role of mathematics in science, advocating for alternative ways of knowing that can complement and expand our understanding of reality.
 
