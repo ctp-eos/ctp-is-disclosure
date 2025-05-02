@@ -44,7 +44,7 @@ These approaches, while promising, remain within a mathematical, quantum framewo
 
 ### 3.1 Overview of CTP
 
-The CTP (Consciousness-Technology-Physics) Energy Science paradigm, developed by Drazen since the 1980s, proposes a non-physical C-domain as the foundation of reality. Key concepts include:
+The CTP (Consciousness-Translational-Physics) Energy Science paradigm, developed by Drazen since the 1980s, proposes a non-physical C-domain as the foundation of reality. Key concepts include:
 
 - **C-Domain**: A hyper-dimensional, non-physical realm where C-energy Units operate, independent of physical laws like gravity or quantum mechanics.
 - **C-Energy (Consciousness Energy)**: Non-physical units that “code” the creation of physical reality, operating within a C-energy Frequency Range (CeFR) that defines our universe within a multiverse - or reality *'bandwidths'*.
