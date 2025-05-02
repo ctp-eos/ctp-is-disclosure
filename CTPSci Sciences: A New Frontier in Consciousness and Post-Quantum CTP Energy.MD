@@ -34,7 +34,7 @@ Mainstream science treats consciousness as a byproduct of brain function. CTPSci
 
 The human brain is a processor — not a generator — of thought. This paradigm unlocks new avenues for:
 
-- Mental communication *via future CTP Energy Systems. One the C-domain Communicator™*
+- Mental communication via future CTP Energy Systems: One the *C-domain Communicator™*
 - CTP Gravity Control Systems™ (CTPGCS)
 - CTP Interdomain Technologies (CTPIDT)
 
