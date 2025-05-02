@@ -14,7 +14,7 @@ markdown
 
 The Big Bang represents the origin of our universe—approximately 13.8 billion years ago—when all matter, energy, space, and time emerged from a singularity of infinite density and temperature. Michio Kaku, a prominent theoretical physicist, describes this as a “disaster” for physics: ***“The fundamental problem of cosmology is that the laws of physics as we know them break down at the instant of the Big Bang… a missing piece beyond physical law.”*** This breakdown challenges the core principle of physics: that the universe obeys **knowable, mathematical laws** - only.
 
-> ***"The fundamental problem of cosmology is that the laws of physics as we know them break down at the instant of the Big Bang. Well some people say what's wrong with that, what's wrong with having the laws of physics collapse? Well for a physicist this is a disaster. All our lives we've dedicated to the proposition that the Universe obeys knowable laws, laws that can be written down in the language of mathematics and here we have the centrepiece of the Universe itself, a missing piece beyond physical law. - Michio Kaku*** 
+> ***"The fundamental problem of cosmology is that the laws of physics as we know them break down at the instant of the Big Bang. Well some people say what's wrong with that, what's wrong with having the laws of physics collapse? Well for a physicist this is a disaster. All our lives we've dedicated to the proposition that the Universe obeys knowable laws, laws that can be written down in the language of mathematics and here we have the centrepiece of the Universe itself, a missing piece beyond physical law.*** - **Michio Kaku** 
 > 
 > [Source: BBC Horizon - Parallel Universe](https://www.bbc.co.uk/science/horizon/2001/parallelunitrans.shtml)
 
@@ -65,7 +65,7 @@ In CTP, the Big Bang is not a physical singularity but a rendering event in the 
 Kaku seeks a framework beyond physical law to describe the Big Bang. The C-domain provides this:
 
 - **Non-Physical Foundation**: Physical laws (GR, QM) are emergent in the P-domain, not fundamental in the C-domain. The breakdown of these laws at t = 0 is irrelevant, as the C-domain operates under its own non-physical principles.
-- **Deterministic Creation**: Unlike quantum-based models (e.g., inflation with quantum fluctuations), the C-domain is non-quantum, making the Big Bang a deliberate act of C-energy, translated by T-energy into physical reality.
+- **Deterministic Creation**: Unlike quantum-based models *(e.g., inflation with quantum fluctuations)*, the C-domain is non-quantum, making the Big Bang a deliberate act of C-energy, translated by T-energy into physical reality.
 - **Unified Field Theory**: CTP claims to be the Unified Field Theory, unifying all forces by rooting them in the C-domain, where C-energy and T-energy govern their emergence.
 
 ---
@@ -80,7 +80,7 @@ Physics relies on mathematics as its language, expecting theories to provide equ
 
 ### 4.2 Skepticism of Speculative Ideas
 
-The scientific community is skeptical of speculative claims, especially in fields like UFOLOGY, as seen in the X threads (e.g., Post ID: 1918378368992722982, where the UFO…No! Podcast rejects “trust me, bro” narratives). CTP’s lack of empirical evidence and mathematical formalism fuels this skepticism, despite its conceptual solution to the Big Bang problem.
+The scientific community is skeptical of speculative claims, especially in fields like **UFOLOGY**, as seen in the X threads (e.g., Post ID: 1918378368992722982, where the UFO…No! Podcast rejects “trust me, bro” narratives). CTP’s lack of empirical evidence and mathematical formalism fuels this skepticism, despite its **conceptual solution** to the ***Big Bang problem***.
 
 ### 4.3 Reductionist Worldview
 
@@ -92,7 +92,7 @@ Physics values mathematical rigor and falsifiability. CTP, lacking equations, ca
 
 ### 4.5 Cultural and Institutional Inertia
 
-The scientific establishment rewards conformity to mathematical-empirical methods through peer review, funding, and prestige. Non-mathematical paradigms like CTP struggle to gain traction in this environment, as they don’t align with institutional norms.
+The scientific establishment rewards conformity to mathematical-empirical methods through peer review, funding, and prestige. Non-mathematical paradigms like CTP struggle to gain traction in this environment, as they don’t align with **institutional norms**.
 
 ---
 
@@ -102,17 +102,19 @@ To overcome these limits while preserving CTP’s non-mathematical, non-quantum 
 
 ### 5.1 Develop a Conceptual Language for the C-Domain
 
-Since the C-domain doesn’t use mathematics, we need a new language to describe its dynamics:
+- These are the terms of the CTPSci Sciences and the CTPSci lexicon.
+- Since the C-domain doesn’t use mathematics, we need a new language to describe its dynamics:
 
-- Define the “code” of C-energy Units in terms of relationships, intentions, or patterns (e.g., the CeFR as a spectrum of “states” rather than frequencies).
-- Use analogies—like the universe as a computational system (but without numerical computation)—to make CTP accessible to scientists.
+- Define the “code” of C-energy Units in terms of relationships, intentions, or patterns *(e.g., the CeFR as a spectrum of “states” rather than frequencies)*.
+- Use analogies—like the universe as a computational system *(but without numerical computation)* —to make CTP accessible to scientists.
+- NOTE: CTPSci Sciences are private/exclusive to CTP corporate as the IP holders.
 
 ### 5.2 Focus on Observable Effects in the P-Domain
 
 While the C-domain is non-mathematical, its effects in the P-domain are measurable:
 
 - **Cosmic Expansion**: If C-energy governs expansion (e.g., “expansion of C-energy in C-domain as coded by T-energy”), look for deviations from the Friedmann equations (e.g., Hubble tension: \( H_0 \approx 73 \, \text{km/s/Mpc} \) from local measurements vs. \( 67 \, \text{km/s/Mpc} \) from CMB).
-- **UAP Phenomena**: If UAPs are “CTPcraft” (Post ID: 1918394978805465136), their behavior (e.g., rapid acceleration, lack of propulsion signatures) provide direct evidence of CTP Energy dynamics.
+- **UAP Phenomena**: **UFOs/UAPs** are “CTPcraft” (Post ID: 1918394978805465136), their behavior *(e.g., rapid acceleration, lack of propulsion signatures)* provide direct evidence of CTP Energy dynamics.
 
 ### 5.3 Engage the Community Constructively
 
@@ -120,6 +122,7 @@ The skepticism in the X threads (e.g., Post ID: 1918378368992722982) shows a com
 
 - Present its ideas transparently, acknowledging its speculative nature.
 - Invite dialogue on how to test its claims indirectly (e.g., through P-domain effects)
+- Note: this will come later.
 
 ### 5.4 Challenge the Mathematical Dogma
 
@@ -145,8 +148,9 @@ By developing a conceptual language for the C-domain, focusing on observable eff
 We invite researchers, scientists, and thinkers to:
 
 1. Explore the CTP paradigm with an open mind, considering its potential to address unresolved problems in **cosmology** and **beyond**.
-2. Collaborate on developing indirect tests of CTP through P-domain effects, such as cosmological anomalies or UAP studies.
-3. Engage in a broader dialogue about the role of mathematics in science, advocating for alternative ways of knowing that can complement and expand our understanding of reality.
+2. The CTPSci Sciences must first be learned, processed and understood within one's own mind and one's own consciousness, first. Its rules and laws must be understood: first. This aspect of the CTPSci Sciences is not up for debdate.
+3. Collaborate on developing indirect tests of CTP through P-domain effects, such as cosmological anomalies or UAP studies.
+4. Engage in a broader dialogue about the role of mathematics in science, advocating for alternative ways of knowing that can complement and expand our understanding of reality.
 
 The CTP Energy Science paradigm challenges us to rethink the foundations of physics. By overcoming the limits of **mainstream thinking**, we can unlock a deeper truth about the universe— one that transcends limitations of physical law.
 
