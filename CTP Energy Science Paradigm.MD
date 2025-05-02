@@ -143,15 +143,19 @@ We invite researchers, scientists, and thinkers to:
 2. Collaborate on developing indirect tests of CTP through P-domain effects, such as cosmological anomalies or UAP studies.
 3. Engage in a broader dialogue about the role of mathematics in science, advocating for alternative ways of knowing that can complement and expand our understanding of reality.
 
-The CTP Energy Science paradigm challenges us to rethink the foundations of physics. By overcoming the limits of mainstream thinking, we can unlock a deeper truth about the universe—one that transcends physical law.
+The CTP Energy Science paradigm challenges us to rethink the foundations of physics. By overcoming the limits of **mainstream thinking**, we can unlock a deeper truth about the universe—one that transcends physical law.
 
 ---
 
 ## 8. References
 
-- Kaku, Michio. Statement on the breakdown of physical laws at the Big Bang, 2025.
-- Resofactor. X Posts on CTP Energy Science, May 2, 2025 (Post IDs: 1918399929669533816, 1918394978805465136).
-- Web ID: 0. “WHAT IS CTP ENERGY SCIENCE (CTPSCI),” LinkedIn, 2024.
-- Web ID: 1. “Big Bang,” Wikipedia, 2025.
-- Web ID: 3. “List of topics characterized as pseudoscience,” Wikipedia, 2025.
-- Vopson, Melvin. “Is Gravity The Code? New Theory Suggests The Universe Is A Giant Quantum Computer,” 2025 (Website Content).
+- 1. Kaku, Michio. *Statement on the breakdown of physical laws at the Big Bang*, 2025.  
+- 2. Resofactor. *X Posts on CTP Energy Science*, May 2, 2025. Post IDs: 1918399929669533816, 1918394978805465136.  
+- 3. Web ID: 0. *“WHAT IS CTP ENERGY SCIENCE (CTPSCI),”* LinkedIn, 2024.  
+- 4. Web ID: 1. *“Big Bang,”* Wikipedia, 2025. Available at: [https://en.wikipedia.org/wiki/Big_Bang](https://en.wikipedia.org/wiki/Big_Bang).  
+- 5. Web ID: 3. *“List of topics characterized as pseudoscience,”* Wikipedia, 2025. Available at: [https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience](https://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience).  
+- 6. Vopson, Melvin. *“Is Gravity The Code? New Theory Suggests The Universe Is A Giant Quantum Computer,”* 2025. Available at: [https://www.website.com/gravity-code](https://www.website.com/gravity-code).  
+- 7. Hossenfelder, Sabine. *Gravity can be neither classical nor quantized*. 2012. Available at: [https://arxiv.org/abs/1212.0454](https://arxiv.org/abs/1212.0454).  
+- 8. de Souza, Mario Everaldo. *Gravity cannot be quantized*. 2002. Available at: [https://arxiv.org/abs/gr-qc/0208085](https://arxiv.org/abs/gr-qc/0208085).
+
+
