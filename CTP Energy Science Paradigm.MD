@@ -47,8 +47,8 @@ These approaches, while promising, remain within a mathematical, quantum framewo
 The CTP (Consciousness-Technology-Physics) Energy Science paradigm, developed by Drazen since the 1980s, proposes a non-physical C-domain as the foundation of reality. Key concepts include:
 
 - **C-Domain**: A hyper-dimensional, non-physical realm where C-energy Units operate, independent of physical laws like gravity or quantum mechanics.
-- **C-Energy (Consciousness Energy)**: Non-physical units that “code” the creation of physical reality, operating within a C-energy Frequency Range (CeFR) that defines our universe within a multiverse - or reality *'bandwidths'*. That we are physically *'hard-coded'* and *'hard-wired'* into this native C-energy Frequency Range (CeFR), only.
-- **T-Energy (Translational Energy)**: Units that translate C-energy into the physical P-domain (our universe), manifesting as spacetime, matter, and physical laws.
+- **C-Energy (Consciousness Energy)**: Non-physical units that “code” the creation of physical reality, operating within a C-energy Frequency Range (CeFR) that defines our universe within a multiverse - or reality *'bandwidths'*.
+- **T-Energy (Translational Energy)**: Units that translate C-energy into the physical P-domain (our universe), manifesting as spacetime, matter, and physical laws. That we are physically *'hard-coded'* and *'hard-wired'* via T-energy into this native C-energy Frequency Range (CeFR), only.
 - **Non-Mathematical and Non-Quantum**: The C-domain operates without mathematics or quantum principles, relying on a deterministic, non-quantitative “logic” or “code” inherent to C-energy Units.
 
 ### 3.2 Redefining the Big Bang
