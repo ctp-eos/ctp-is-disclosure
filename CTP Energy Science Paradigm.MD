@@ -14,7 +14,7 @@ markdown
 
 The Big Bang represents the origin of our universe—approximately 13.8 billion years ago—when all matter, energy, space, and time emerged from a singularity of infinite density and temperature. Michio Kaku, a prominent theoretical physicist, describes this as a “disaster” for physics: ***“The fundamental problem of cosmology is that the laws of physics as we know them break down at the instant of the Big Bang… a missing piece beyond physical law.”*** This breakdown challenges the core principle of physics: that the universe obeys **knowable, mathematical laws** - only.
 
-> MICHIO KAKU: The fundamental problem of cosmology is that the laws of physics as we know them break down at the instant of the Big Bang. Well some people say what's wrong with that, what's wrong with having the laws of physics collapse? Well for a physicist this is a disaster. All our lives we've dedicated to the proposition that the Universe obeys knowable laws, laws that can be written down in the language of mathematics and here we have the centrepiece of the Universe itself, a missing piece beyond physical law.
+> ***"The fundamental problem of cosmology is that the laws of physics as we know them break down at the instant of the Big Bang. Well some people say what's wrong with that, what's wrong with having the laws of physics collapse? Well for a physicist this is a disaster. All our lives we've dedicated to the proposition that the Universe obeys knowable laws, laws that can be written down in the language of mathematics and here we have the centrepiece of the Universe itself, a missing piece beyond physical law. - Michio Kaku*** 
 > 
 > [Source: BBC Horizon - Parallel Universe](https://www.bbc.co.uk/science/horizon/2001/parallelunitrans.shtml)
 
