@@ -12,7 +12,7 @@ Throughout human history, each scientific revolution demanded not only new theor
 - Einstein's relativity restructured space and time into flexible dimensions.
 - Quantum mechanics shattered certainty and made the observer part of the equation. 
 - Everything is reduced to smaller/physical quantum particles.
-- Quantum particles are *physical reality pixels* whereas *C-energy Units* are *C-reality pixels* at the source below it all.
+- Quantum particles are *physical reality pixels* whereas *C-energy Units* are *CTP-reality pixels* at the source below it all.
 - CTP starts with the non-physical emerging into physical reality 
 - C-domain is from *outside* of *'where'* even particles are found *(originate from in non-physical C-domain)*.
 
