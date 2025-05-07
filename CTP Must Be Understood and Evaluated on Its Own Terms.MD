@@ -1,16 +1,17 @@
-# Conscious Translational Physics (CTP) Must Be Understood and Evaluated on Its Own Terms
+# CTP Must Be Understood and Evaluated on Its Own Terms
 
 ## A Foundational Paradigm Shift in Science
 
 ---
 
-## I. Introduction: A New Scientific Horizon
+## I. Introduction: A New Scientific Horizon (Conscious Translational Physics - CTP)
 
 Throughout human history, each scientific revolution demanded not only new theories but **new ways of understanding reality itself**.
 
 - Newtonian mechanics viewed the universe as a deterministic machine.
 - Einstein's relativity restructured space and time into flexible dimensions.
 - Quantum mechanics shattered certainty and made the observer part of the equation. Everything is reduced to smaller/physical quantum particles.
+- Quantum particles are *physical reality pixels* whereas *C-energy Units* are *C-reality pixels* at the source below it all.
 - CTP starts with the non-physical emerging into physical reality - outside of 'where' even particles originate.
 
 Now enters **Conscious Translational Physics (CTP)** — a revolution that does **not extend** current models but **transcends** them.
@@ -43,12 +44,13 @@ Despite their brilliance:
 - **Relativity** explains gravity but excludes consciousness.
 - **Quantum mechanics** includes uncertainty but sidelines human intention.
 - Neither addresses **field-intelligent energy** or **phase-resonant consciousness effects**.
+- Neither addresses **higher vibrational reality** or the **non-physical** - outside of it.
 
 ---
 
 ## III. What Is Conscious Translational Physics?
 
-### 3.1 Consciousness as Field, Not Byproduct
+### 3.1 Consciousness as Non-physical C-Field, Not Byproduct
 
 CTP redefines **consciousness as a universal field**, not brain-based epiphenomena.
 
@@ -89,7 +91,7 @@ CTP explains:
 - Overunity effects
 - Temporal asymmetry
 - Conscious field interactions
-- Scalar energy resonance
+- Non-physical/post-Scalar energy resonance
 
 ---
 
@@ -212,7 +214,3 @@ To understand CTP is to **move beyond consumption** of energy into **creation th
 6. [*Physics of the Impossible*](https://www.amazon.com/dp/0307278824?tag=ctpenergy03-20) by Michio Kaku
 
 ---
-
-**© CTP Energy Science. Licensed for transformative research and public distribution under CTP Open Scientific License v1.0**
-
-
