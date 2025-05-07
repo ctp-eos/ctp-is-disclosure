@@ -199,23 +199,17 @@ To understand CTP is to **move beyond consumption** of energy into **creation th
 
 ## References & Further Reading
 
-1. *The Structure of Scientific Revolutions* by Thomas S. Kuhn  
-   [https://www.amazon.com/dp/0226458121?tag=ctpenergy03-20](https://www.amazon.com/dp/0226458121?tag=ctpenergy03-20)
+1. [*The Structure of Scientific Revolutions*](https://www.amazon.com/dp/0226458121?tag=ctpenergy03-20) by Thomas S. Kuhn
 
-2. *The Field: The Quest for the Secret Force of the Universe* by Lynne McTaggart  
-   [https://www.amazon.com/dp/006143518X?tag=ctpenergy03-20](https://www.amazon.com/dp/006143518X?tag=ctpenergy03-20)
+2. [*The Field: The Quest for the Secret Force of the Universe*](https://www.amazon.com/dp/006143518X?tag=ctpenergy03-20) by Lynne McTaggart
 
-3. *Biocentrism: How Life and Consciousness Are the Keys to Understanding the True Nature of the Universe* by Robert Lanza  
-   [https://www.amazon.com/dp/1935251740?tag=ctpenergy03-20](https://www.amazon.com/dp/1935251740?tag=ctpenergy03-20)
+3. [*Biocentrism: How Life and Consciousness Are the Keys to Understanding the True Nature of the Universe*](https://www.amazon.com/dp/1935251740?tag=ctpenergy03-20) by Robert Lanza
 
-4. *The Holographic Universe* by Michael Talbot  
-   [https://www.amazon.com/dp/0060922583?tag=ctpenergy03-20](https://www.amazon.com/dp/0060922583?tag=ctpenergy03-20)
+4. [*The Holographic Universe*](https://www.amazon.com/dp/0060922583?tag=ctpenergy03-20) by Michael Talbot
 
-5. *Tuning the Human Biofield* by Eileen Day McKusick  
-   [https://www.amazon.com/dp/1620552469?tag=ctpenergy03-20](https://www.amazon.com/dp/1620552469?tag=ctpenergy03-20)
+5. [*Tuning the Human Biofield*](https://www.amazon.com/dp/1620552469?tag=ctpenergy03-20) by Eileen Day McKusick
 
-6. *Physics of the Impossible* by Michio Kaku  
-   [https://www.amazon.com/dp/0307278824?tag=ctpenergy03-20](https://www.amazon.com/dp/0307278824?tag=ctpenergy03-20)
+6. [*Physics of the Impossible*](https://www.amazon.com/dp/0307278824?tag=ctpenergy03-20) by Michio Kaku
 
 ---
 
