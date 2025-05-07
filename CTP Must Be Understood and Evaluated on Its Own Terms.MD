@@ -194,6 +194,8 @@ Science becomes **reverence in action**.
 CTP is not science fiction. It is **science future** — already emerging, awaiting recognition.
 
 - It explains the unexplained.
+- Where previous sciences and religion split - CTP synthesizes and unites in a new model and new consciousness of a larger reality; the C-domain.
+- CTP resolves the science of something no one believed science could ever crossover to
 - It unifies the disjointed.
 - It empowers the participatory.
 
