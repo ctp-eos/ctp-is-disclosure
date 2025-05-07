@@ -71,7 +71,7 @@ CTP redefines **consciousness as a universal field**, not brain-based epiphenome
 - Basis of **'CTP'**, **CTP Energy** and the **CTP Model**
 - **CTP Grand Unification** or **CTP Unity** has been achieved.
 
-CTP describes **reality as dynamic, conscious, and harmonic** — where thought/intent and coherence matter.
+CTP describes **reality as dynamic, conscious, and harmonic** — where thought/intent and coherence matter *(as well as creates it)*.
 
 ---
 
