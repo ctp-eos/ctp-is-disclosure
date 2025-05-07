@@ -104,11 +104,11 @@ CTP explains:
 
 ### 5.2 Emerging Technologies
 
-CTP research has produced experimental prototypes showing:
+CTP research will later produce the following showing:
 
-<!-- 
-- Overunity energy generation via field asymmetry
+- Overunity energy generation via CTP field asymmetry and C-domain Extraction
 - Inertial mass reduction through vacuum geometry control
+- CTP Gravitic Propulsion Systems
 - Zero-point energy extraction with phase-aligned resonance
 - Bio-coherent devices responding to human thought patterns
 
@@ -126,7 +126,9 @@ Traditional instruments cannot measure:
 
 CTP demands **new instrumentation**, including:
 
-- Scalar field detectors
+- CEMAS C-energy Detectors 
+- TP Interface
+- Post-scalar field detectors
 - Phase-entropy analyzers
 - Intention-field coupling monitors
 
@@ -149,8 +151,9 @@ Not mysticism — **physics of coherence**.
 CTP Energy Science requires:
 
 - Independent labs and research centers
-- Open-access peer-reviewed CTP journals
+- Curriculum Developers
 - Interdisciplinary training academies
+- Trainers
 
 ### 7.2 Public Communication and Access
 
