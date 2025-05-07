@@ -48,13 +48,13 @@ Despite their brilliance:
 
 ---
 
-## III. What Is Conscious Translational Physics?
+## III. What Is Conscious Translational Physics (CTP)?
 
-### 3.1 Consciousness as Non-physical C-Field, Not Byproduct
+### 3.1 Consciousness as a Non-physical C-Field, Underlying Physical Reailty: Not Byproduct
 
 CTP redefines **consciousness as a universal field**, not brain-based epiphenomena.
 
-- Consciousness **precedes** physics.
+- Consciousness **precedes** physics, P-energy, P-energy Units, or P-substrates.
 - It is **translational**, modulating between perception, energy, matter, and dimension.
 
 ### 3.2 Translational Physics: The Logic of Movement Between Realms
