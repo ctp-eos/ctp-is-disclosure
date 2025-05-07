@@ -220,6 +220,5 @@ To understand CTP is to **move beyond consumption** of energy into **creation th
 ---
 
 **© CTP Energy Science. Licensed for transformative research and public distribution under CTP Open Scientific License v1.0**
-```
 
 
