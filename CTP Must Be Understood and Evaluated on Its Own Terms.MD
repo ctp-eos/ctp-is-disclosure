@@ -117,6 +117,8 @@ CTP research will later produce the following showing:
 - CTP Gravitic Propulsion Systems
 - Zero-point energy extraction with phase-aligned resonance
 - Bio-coherent devices responding to human thought patterns
+- Theaded access, contact, communication, and data-stream integration into the C-domain
+- Contact with CE Entities within C-domain
 
 ---
 
