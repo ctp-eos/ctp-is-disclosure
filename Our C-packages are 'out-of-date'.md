@@ -1,4 +1,4 @@
-# Our **'conscious packages'** need serious updating!
+# Our **'Conscious or C-Packages'** Require Serious Updating!
 
 ---
 
