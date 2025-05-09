@@ -52,9 +52,9 @@ These are not metaphors or abstractions; they are **fundamental forces** with di
 
 In the CTP framework, the universe is constantly renewed via the interaction of:
 
-- **C-units** → Information-intelligent structures (awareness nodes)  
-- **T-units** → Causal change agents across timelines (reality domain connector or 'bridge')  
-- **P-units** → Observable physical particles or energy states  
+- **C-energy Units** → Information-intelligent structures (awareness nodes)  
+- **T-energy Units** → Causal change agents across timelines (reality domain connector or 'bridge')  
+- **P-energy Units** → Observable physical particles or energy states  
 
 Each of these operates **under its own laws**, yet influences the others in a cycle that:
 
