@@ -7,7 +7,7 @@
 
 The rise of consciousness-first science is one of the most radical paradigm shifts in the history of physics. While mainstream science continues to search for a unified theory of everything based on matter, space-time, and quantum mechanics, a bold new school of thought proposes that **consciousness itself is more fundamental than space-time**[^1].
 
-Among the best-known voices in this arena is **Dr. Donald Hoffman**, who has earned global recognition for his "Conscious Realism" and "Conscious Agent Theory"[^2]. But years before Hoffman formalized his views, **Drazen introduced a comprehensive and mathematically aligned cosmological system** called **CTP Energy**.
+Among the best-known voices in this arena is **Dr. Donald Hoffman**, who has earned global recognition for his "Conscious Realism" and "Conscious Agent Theory"[^2]. But years before Hoffman formalized his views, **Drazen introduced a comprehensive and aligned cosmological system** called **CTP Energy**.
 
 Publicly revealed in **October 2004**, the **CTP Energy Model** predated Hoffman’s 2008 paper and offered **a far more expansive scientific framework**, rooted in decades of research into non-physical energy domains, emergent time, and the primacy of consciousness.
 
