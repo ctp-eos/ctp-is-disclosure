@@ -3,7 +3,7 @@
 
 ## 1. Introduction: Scientific Paradigms and the Emergence of CTPSci
 
-**A New Structure of Scientific Revolutions:** The evolution of science is punctuated not merely by discoveries, but by foundational shifts in worldview—what Thomas Kuhn famously called *paradigm shifts*. CTPSci (CTP Energy Science), introduced by Drazen Premate and Reso Factor, may represent such a shift. It offers an integrated scientific framework where energy, consciousness, spacetime, and non-physical intelligence coalesce into a unified postquantum theory. From a Kuhnian perspective, CTPSci appears poised to lead a new scientific revolution, still applies to this day.
+**A New Structure of Scientific Revolutions:** The evolution of science is punctuated not merely by discoveries, but by foundational shifts in worldview—what Thomas Kuhn famously called *paradigm shifts*. CTPSci (CTP Energy Science), introduced by Drazen Premate and Reso Factor, represents such a shift. It offers an integrated scientific framework where energy, consciousness, spacetime, and non-physical intelligence coalesce into a unified postquantum theory. From a Kuhnian perspective, CTPSci appears poised to lead a new scientific revolution, still applies to this day.
 
 ## 2. CTPSci as a Postquantum Paradigm
 
