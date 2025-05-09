@@ -108,7 +108,7 @@ Because CTP includes defined **forces, fields, and relational units**, it is **n
 - C-energy resonance-based AI systems  
 - Non-physical energy healing platforms[^11]  
 - Post-quantum information storage using C-units[^12]
-- CTP Gravitic Propulsion Systems (advanced forms of space travel and CTP space proulsion systems)
+- CTP Gravitic Propulsion Systems *(advanced forms of future space travel and CTP space propulsion systems)*
 
 By comparison, **Hoffman’s model does not lend itself to engineering** — it is an interpretation framework, not a physical model.
 
