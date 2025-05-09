@@ -38,7 +38,7 @@ Drazen’s CTP Energy Model is the result of more than **20 years of pre-2004 re
 
 ### 🔺 The CTP Triad
 
-At its core, the CTP framework posits that the universe arises from the interplay of three energy domains:
+At its core, the CTP framework posits that the universe arises from the interplay of three energy domains *(in CTP reality-two)*:
 
 | Energy Type | Description |
 |-------------|-------------|
