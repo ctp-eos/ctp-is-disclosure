@@ -171,7 +171,3 @@ The scientific revolution won’t start with equations alone — it will start w
 [^10]: Haramein, N. (2013). *Quantum Gravity and the Holographic Mass*.  
 [^11]: Oschman, J. L. (2000). *Energy Medicine: The Scientific Basis*. [Amazon](https://www.amazon.com/dp/0443062617?tag=ctpenergy03-20)  
 [^12]: Bekenstein, J. D. (1981). *Black Holes and the Second Law*, *Lettere al Nuovo Cimento*.
-
----
-
-
