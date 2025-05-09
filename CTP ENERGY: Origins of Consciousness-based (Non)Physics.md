@@ -146,7 +146,7 @@ The time has come to:
 
 > "CTP Energy is not just a theory. It is a unified physics of consciousness, time, and reality."
 
-While Hoffman popularized a powerful idea, **Drazen’s CTP Energy laid the groundwork years earlier**, offering a system ready for science, experimentation, and technology.
+While Hoffman popularized a powerful idea, **Drazen’s CTP Energy laid the groundwork years earlier**, offering a system ready for science, experimentation, and technology. *(Our world simply was not ready for CTP even in the wake of ["WhatTheBleeP'](https://watchdocumentaries.com/what-the-bleep-do-we-know/)
 
 The scientific revolution won’t start with equations alone — it will start with those willing to rethink the very structure of space, time, and the mind.
 
