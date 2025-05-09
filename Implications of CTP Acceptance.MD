@@ -17,7 +17,8 @@ For CTP to be a "better" cosmological model, it would need to:
 2. **Resolve Open Questions**: Address unresolved issues in ΛCDM, such as the nature of dark energy, dark matter, the Hubble tension, and the cosmological constant problem.
 3. **Offer New Predictions**: Make testable predictions that are confirmed by experiments, outperforming ΛCDM’s predictions.
 4. **Explain UAP Phenomena**: Since CTP ties itself to UAP propulsion, it must provide a verifiable mechanism for "CTP Energy" that aligns with observed UAP behaviors (e.g., rapid acceleration, anti-gravity effects, i.e., CTP Gravitic Propulsion) and integrates this into its cosmological framework.
-5. **Be Mathematically Robust**: Have a clear, falsifiable mathematical structure that can be adopted by the scientific community.
+5. **Be Mathematically Robust**: Have a clear, falsifiable mathematical structure that can be adopted by the scientific community. 
+- Note this we address here: [CTP Must Be Understood and Evaluated on Its Own Terms](https://github.com/ctp-eos/ctp-is-disclosure/blob/main/CTP%20Must%20Be%20Understood%20and%20Evaluated%20on%20Its%20Own%20Terms.md)
 
 ## Implications of a Universally Accepted CTP Model
 
