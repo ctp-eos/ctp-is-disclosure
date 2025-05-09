@@ -79,7 +79,7 @@ CTPSci aligns or intersects with:
 
 In Thomas Kuhn’s terms, CTPSci represents a paradigmatic leap rather than an incremental correction. It seeks not just to improve the map of reality but to draw entirely new cartographies—ones that honor ancient metaphysics while remaining rooted in testable, revolutionary science.
 
-## References (with Amazon Associate Links)
+## References
 
 - Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press. [Amazon](https://www.amazon.com/dp/0226458121?tag=ctpenergy03-20)
 - Premate, D. & Factor, R. (2023). *CTP Energy Science: Overview and Mission*. GitHub: [ctp-eos/ctp-is-disclosure](https://github.com/ctp-eos/ctp-is-disclosure)
@@ -91,5 +91,3 @@ In Thomas Kuhn’s terms, CTPSci represents a paradigmatic leap rather than an i
 - Galileo Commission Report (2019). *Beyond a Materialist Worldview*. [Galileo Commission](https://galileocommission.org/report/)
 
 ---
-
-You can now copy and paste this into your GitHub repository. Let me know if you'd like further modifications!
