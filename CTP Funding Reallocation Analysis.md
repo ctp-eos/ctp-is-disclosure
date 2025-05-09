@@ -92,4 +92,4 @@ If the **CTP Model** achieves validation and universal scientific acceptance, it
 
 **$1–2 billion annually** would move out of traditional particle and cosmological physics, replaced by **$2.5–8 billion per year** in CTP-driven technologies, consciousness-based physics, and UAP-inspired engineering — fueling an era of **deeptech unlike any in modern history**.
 
-```
+---
