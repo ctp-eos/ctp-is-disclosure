@@ -43,7 +43,7 @@ At its core, the CTP framework posits that the universe arises from the interpla
 | Energy Type | Description |
 |-------------|-------------|
 | **C-energy (Consciousness-Energy)** | Non-physical information field. Carries awareness, intelligence, and perception. |
-| **T-energy (Temporal-Energy)** | Non-physical but dynamic. Responsible for time flow, causality, and emergence. |
+| **T-energy (Tranlational-Energy)** | Non-physical but dynamic. Responsible for time flow, causality, and emergence/'rendering'. |
 | **P-energy (Physical-Energy)** | Traditional energy/matter fields governed by known physics. |
 
 These are not metaphors or abstractions; they are **fundamental forces** with distinct roles in a **cyclical relational model**—the **CTP Energy Cycle**.
@@ -53,7 +53,7 @@ These are not metaphors or abstractions; they are **fundamental forces** with di
 In the CTP framework, the universe is constantly renewed via the interaction of:
 
 - **C-units** → Information-intelligent structures (awareness nodes)  
-- **T-units** → Causal change agents across timelines  
+- **T-units** → Causal change agents across timelines (reality domain connector or 'bridge')  
 - **P-units** → Observable physical particles or energy states  
 
 Each of these operates **under its own laws**, yet influences the others in a cycle that:
