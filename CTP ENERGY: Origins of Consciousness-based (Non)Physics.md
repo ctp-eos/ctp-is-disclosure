@@ -132,7 +132,9 @@ The **CTP Energy Model** is **both historically and scientifically prior** to Co
 
 The time has come to:
 
-- 📜 **Formally archive** and timestamp early CTP documents (pre-2004) [CTP on Internet archive](https://web.archive.org/web/20041011003818/http://www.ctpenergy.com/) 
+- 📜 **Formally archive** and timestamp early CTP documents (pre-2008)
+- [CTP Energy on Internet archive](https://web.archive.org/web/20041011003818/http://www.ctpenergy.com/)
+- [CTP Energy's original MySpace profile](https://web.archive.org/web/20060420071247/myspace.com/ctpenergy)
 - 🔬 **Develop open-source toolkits** to simulate the CTP Cycle  
 - 🧪 **Design experiments** to detect or infer T-energy and C-energy effects  
 - 🧠 **Engage with academic and frontier research communities**  
