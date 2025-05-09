@@ -1,4 +1,4 @@
-# CTP ENERGY AND THE ORIGINS OF CONSCIOUSNESS-BASED PHYSICS  
+# CTP ENERGY AND THE ORIGINS OF CONSCIOUSNESS-BASED (NON)PHYSICS  
 ### *How Drazen’s CTP Model Predated and Surpassed Hoffman’s Conscious Realism*
 
 ---
