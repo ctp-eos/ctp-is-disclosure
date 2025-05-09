@@ -68,7 +68,7 @@ Each of these operates **under its own laws**, yet influences the others in a cy
 
 | Feature                          | CTP Energy (Drazen, 2004)                                      | Conscious Realism (Hoffman, 2008)                      |
 |----------------------------------|----------------------------------------------------------------|---------------------------------------------------------|
-| First Public Presentation        | October 2004 (research started in early 1980s)                 | 2008 (Mind & Matter publication)                        |
+| First Public Presentation        | [October 2004](https://web.archive.org/web/20041011003818/http://www.ctpenergy.com/) (research started in early 1980s)                 | 2008 (Mind & Matter publication)                        |
 | Base Components                  | C-energy, T-energy, P-energy (tripartite force model)          | Conscious agents (probabilistic interaction models)     |
 | Ontology                         | Consciousness and time as **active energetic forces**          | Consciousness as primary, space-time as interface       |
 | Physical Space-Time              | Emergent from C-T interaction, dynamically recursive           | Illusory interface used for perception                  |
