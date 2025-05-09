@@ -42,7 +42,7 @@ At its core, the CTP framework posits that the universe arises from the interpla
 
 | Energy Type | Description |
 |-------------|-------------|
-| **C-energy (Consciousness-Energy)** | Non-physical information field. Carries awareness, intelligence, and perception. |
+| **C-energy (Conscious-Energy)** | Non-physical information field. Carries awareness, intelligence, and perception. |
 | **T-energy (Translational-Energy)** | Non-physical but dynamic. Responsible for time flow, causality, and emergence/'rendering'. |
 | **P-energy (Physical-Energy)** | Traditional energy/matter fields governed by known physics. |
 
