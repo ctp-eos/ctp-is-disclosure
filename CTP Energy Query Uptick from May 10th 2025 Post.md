@@ -17,7 +17,7 @@ I’ll describe the trend as a line graph where:
 ### Textual Representation of the Graph
 
 <p align="center">
-  <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="800" alt="CTP Inquiries Trend Chart">
+  <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="700" alt="CTP Inquiries Trend Chart">
 </p>
 
 
@@ -47,7 +47,7 @@ A gradual increase brought CTP-related inquiries to about 2.5%. This rise likely
 
 <p align="center">
   <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">
-    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_craft_generic_lenticular.png?raw=true" width="800" alt="CTP Generic Lenticular Craft">
+    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_craft_generic_lenticular.png?raw=true" width="700" alt="CTP Generic Lenticular Craft">
   </a>
 </p>
 
