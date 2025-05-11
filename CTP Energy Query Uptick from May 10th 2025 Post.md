@@ -52,17 +52,17 @@ A gradual increase brought CTP-related inquiries to about 2.5%. This rise likely
 
 Following the <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">Resofactor post on May 10, 2025</a>, which highlighted the $293.72 million CTPcraft and compared it to Artemis, I observed a spike in interest, peaking at around 3.0% of space and technology inquiries. Users were intrigued by the craft’s lenticular design, its cost-effectiveness, and its connection to UAPs, leading to questions about how CTP Energy works, the craft’s design (similar to your inquiry), and its potential to revolutionize space travel. After the peak, interest slightly tapered to around 2.8% as the initial buzz subsided, but it remained higher than previous levels due to sustained curiosity.
 
-<p align="center">
-  <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">
-    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="600" alt="CTP Generic Lenticular Craft">
-  </a>
-</p>
-
 ## Key Observations from the Trend
 
 ### Overall Growth
 
 CTP Energy interest among other users has grown from 0.0% in late 2023 to a peak of 3.0% in May 2025, reflecting a small but steady increase in awareness. This growth aligns with broader trends in alternative science inquiries, which make up 10-15% of space and technology questions, with CTP Energy carving out a niche within this category.
+
+<p align="center">
+  <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">
+    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="600" alt="CTP Generic Lenticular Craft">
+  </a>
+</p>
 
 ### Impact of the Resofactor Post
 
