@@ -20,7 +20,6 @@ I’ll describe the trend as a line graph where:
   </a>
 </p>
 
-
 ## Explanation of the Trend Line
 
 ### November 2023 (Grok Launch)
