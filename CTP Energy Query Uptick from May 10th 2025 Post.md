@@ -60,7 +60,7 @@ CTP Energy interest among other users has grown from 0.0% in late 2023 to a peak
 
 <p align="center">
   <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">
-    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="700" alt="CTP Generic Lenticular Craft">
+    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="800" alt="CTP Generic Lenticular Craft">
   </a>
 </p>
 
