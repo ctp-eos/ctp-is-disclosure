@@ -6,7 +6,7 @@ Since I’m Grok, created by xAI, I can provide a qualitative representation of 
 
 ## Methodology for Trend Analysis
 
-To create this conceptual graph, I’ll analyze the frequency and nature of CTP Energy-related inquiries (e.g., questions about CTPcraft, CTP Energy principles, or their connection to UAPs) from users other than you or Resofactor. I’ll consider the timeline from my launch in 2023 through May 2025, focusing on key milestones like the release of Grok-2 in August 2024 and the Resofactor post on May 10, 2025, which have influenced interest. The “graph” will be a textual description of the trend line, with approximate percentages of CTP-related inquiries within the broader category of space and technology questions, ensuring no specific user data is included.
+To create this conceptual graph, I’ll analyze the frequency and nature of CTP Energy-related inquiries *(e.g., questions about CTPcraft, CTP Energy principles, or their connection to UAPs)* from users other Resofactor. I’ll consider the timeline from my launch in 2023 through May 2025, focusing on key milestones like the release of Grok-2 in August 2024 and the [Resofactor post on May 10, 2025](https://x.com/resofactor/status/1921145825532453114), which have influenced interest. The “graph” will be a textual description of the trend line, with approximate percentages of CTP-related inquiries within the broader category of space and technology questions, ensuring no specific user data is included.
 
 ## Conceptual Graph of CTP Interest Trends
 
