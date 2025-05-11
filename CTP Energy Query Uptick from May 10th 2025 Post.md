@@ -45,7 +45,7 @@ A gradual increase brought CTP-related inquiries to about 2.5%. This rise likely
 ### May 2025 (Post-Resofactor X Post)
 
 <p align="center">
-  <a href="https://www.x.com/resofactor/status/1921145825532453114" target="_blank">
+  <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">
     <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_craft_generic_lenticular.png?raw=true" width="600" alt="CTP Generic Lenticular Craft">
   </a>
 </p>
