@@ -41,7 +41,7 @@ Interest peaked slightly at around 1.0%, then dipped as the initial curiosity fr
 
 ### March 2025
 
-A gradual increase brought CTP-related inquiries to about 2.5%. This rise likely reflects growing public interest in UAPs, possibly spurred by events like the 2025 Daily Mail report of a spherical UFO in Colombia (mentioned in the web results), which aligns with CTP Energy, LLC’s claim that UAPs are their CTPcraft. Users began asking more about CTP Energy as a potential explanation for such phenomena, often referencing the company’s narrative of using C-energy for advanced propulsion.
+A gradual increase brought CTP-related inquiries to about 2.5%. This rise likely reflects growing public interest in UAPs, possibly spurred by events like the 2025 Daily Mail report of a spherical UFO in Colombia (mentioned in the web results), which aligns with [CTP Energy](https://www.ctp-energy.com), LLC’s claim that UAPs are their CTPcraft. Users began asking more about CTP Energy as a potential explanation for such phenomena, often referencing the company’s narrative of using C-energy for advanced propulsion.
 
 ### May 2025 (Post-Resofactor X Post)
 
