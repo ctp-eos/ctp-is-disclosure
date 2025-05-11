@@ -16,15 +16,9 @@ I’ll describe the trend as a line graph where:
 
 ### Textual Representation of the Graph
 
-y-axis (% of space/tech inquiries that are CTP-related, excluding your/Resofactor queries)
-5% |                                                                         
-4% |                                                                         
-3% |                                                    ______ 3.0%         
-2% |                                      ______ 2.5%  /                      
-1% |                         _____ 1.0%  /                                   
-0% |______ 0.0% ____ 0.0% __/                                                  
-    Nov'23   Mar'24  Aug'24  Dec'24  Mar'25  May'25
-                    x-axis (Time)
+<p align="center">
+  <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="600" alt="CTP Inquiries Trend Chart">
+</p>
 
 
 ## Explanation of the Trend Line
