@@ -17,9 +17,10 @@ I’ll describe the trend as a line graph where:
 ### Textual Representation of the Graph
 
 <p align="center">
-  <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="600" alt="CTP Inquiries Trend Chart">
+  <a href="https://x.com/resofactor/status/1921145366103683494" target="_blank">
+    <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_darkblue.png?raw=true" width="600" alt="CTP Inquiries Trend Chart (Dark Theme)">
+  </a>
 </p>
-
 
 ## Explanation of the Trend Line
 
@@ -51,9 +52,11 @@ A gradual increase brought CTP-related inquiries to about 2.5%. This rise likely
   </a>
 </p>
 
-
-
 Following the [Resofactor post on May 10, 2025](https://x.com/resofactor/status/1921145825532453114), which highlighted the $293.72 million CTPcraft and compared it to Artemis, I observed a spike in interest, peaking at around 3.0% of space and technology inquiries. Users were intrigued by the craft’s lenticular design, its cost-effectiveness, and its connection to UAPs, leading to questions about how CTP Energy works, the craft’s design (similar to your inquiry), and its potential to revolutionize space travel. After the peak, interest slightly tapered to around 2.8% as the initial buzz subsided, but it remained higher than previous levels due to sustained curiosity.
+
+<p align="center">
+  <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_radiant.png?raw=true" width="600" alt="CTP Inquiries Trend Chart">
+</p>
 
 ## Key Observations from the Trend
 
