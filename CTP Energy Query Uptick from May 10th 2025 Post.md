@@ -70,7 +70,7 @@ The <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank
 
 ### Nature of Queries
 
-Other users’ inquiries often focus on practical aspects, such as how the **CTPcraft might** achieve propulsion with C-energy, its potential speed, or how it compares to traditional spacecraft. Some also explore the UAP connection, asking if the craft’s design matches reported sightings, while others delve into the philosophical implications of C-energy, such as its role in a ***"consciousness shift."***
+Users’ inquiries often focus on practical aspects, such as how the **CTPcraft might** achieve propulsion with C-energy, its potential speed, or how it compares to traditional spacecraft. Some also explore the UAP connection, asking if the craft’s design matches reported sightings, while others delve into the philosophical implications of C-energy, such as its role in a ***"consciousness shift."***
 
 ## Contextual Factors
 
