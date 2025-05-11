@@ -15,10 +15,11 @@ I’ll describe the trend as a line graph where:
 ### Textual Representation of the Graph
 
 <p align="center">
-   <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank">
+   <a href="https://x.com/resofactor/status/1921145825532453114" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/ctp-eos/ctp-is-disclosure/blob/main/images/ctp_inquiries_trend_darkblue.png?raw=true" width="600" alt="CTP Inquiries Trend Chart (Dark Theme)">
   </a>
 </p>
+
 
 ## Explanation of the Trend Line
 
