@@ -120,6 +120,6 @@ Such profound changes would inevitably reshape society:
   The implications for human nature, the meaning of life, and our place in the cosmos would spark intense ethical and philosophical discussions.
 
 - **Potential for Unforeseen Challenges:**  
-  As with any major technological shift, there would likely be unforeseen challenges and potential risks.
+  As with any major technological shift, there would likely be unforeseen challenges.
 
 ---
